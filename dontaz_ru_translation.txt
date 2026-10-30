@@ -1,0 +1,374 @@
+# Перевёл Dontaz
+# Начальный экран игры
+#
+Loading...=Загрузка...
+2025 Developed by Fishing Cactus. Produced by ATLAS V, in coproduction with ARTE France, BE REVOLUTION GAMING and 3DAR. Published by Untold Tales and ARTE France. All rights reserved.=2025 Developed by Fishing Cactus. Produced by ATLAS V, in coproduction with ARTE France, BE REVOLUTION GAMING and 3DAR. Published by Untold Tales and ARTE France. All rights reserved.
+With support from=При поддержке
+Developed by=Разработано
+Produced by=Спродюсировано
+Published by=Издано
+<color\=red>Gloomy Eyes</color> uses an autosave function.\nPlease do not close the game when this icon appears.=<color\=red>Gloomy Eyes</color> использует функцию автосохранения.\nПожалуйста, не закрывайте игру, когда появляется этот значок.
+#
+# Главное меню
+#
+Play=Играть
+Continue=Продолжить
+Select Save Slot=Выберите слот для сохранения
+Chapters=Главы
+Mementos=Памятные вещи
+Select=Выбрать
+Options=Параметры
+Exit Game=Выйти из игры
+Press any button to start=Нажмите любую клавишу, чтобы начать
+Empty Slot=Пустой слот
+Delete=Удалить
+Annuler=Annuler
+Confirmer=Confirmer
+#
+# Параметры
+#
+Gameplay=Игра
+Audio=Аудио
+Video=Видео
+Keyboard=Клавиатура
+Controller=Контроллер
+Accessibility=Доступность
+Cancel=Отменить
+Default Settings=Настройки по умолчанию
+Save Changes=Сохранить изменения
+You have unsaved changes.\nAre you sure you want to leave this menu?=У вас есть несохранённые изменения.\nВы уверены, что хотите выйти из этого меню?
+Leave without saving=Выйти без сохранения
+Stay=Остаться
+Confirm=Подтвердить
+Are you sure you want to reset to default options?=Вы уверены, что хотите сбросить параметры по умолчанию?
+#
+# Меню "Игра"
+#
+Text Language=Язык текста
+Show Subtitles=Показать субтитры
+Vibrations=Вибрация
+English=Русский (Dontaz)
+Français=Français
+한국어=한국어=한국어=한국어
+Español=Español
+Portuguese=Portuguese
+Deutsch=Deutsch
+日本語=日本語
+繁體中文=繁體中文
+简体中文=简体中文
+#
+# Меню "Аудио"
+#
+Master Volume=Общая громкость
+Music Volume=Громкость музыки
+Sound Effects Volume=Громкость звуковых эффектов
+Voice-over Volume=Громкость закадрового голоса
+#
+# Меню "Видео"
+#
+Window Mode=Оконный режим
+Fullscreen Window=Полноэкранный режим
+Windowed=Оконный
+Exclusive Fullscreen=Эксклюзивный полноэкранный режим
+Resolution=Разрешение
+1920x1080=1920x1080
+1680x1050=1680x1050
+Quality=Качество
+High=Высокое
+Low=Низкое
+Medium=Среднее
+VSync=Вертикальная синхронизация
+Brightness=Яркость
+Adjust Brightness=Настройка яркости
+Adjust the slider so the image is barely visible.=Отрегулируйте ползунок так, чтобы изображение было едва видно.
+#
+# Меню "Клавиатура"
+#
+Right=Вправо
+Left=Влево
+Down=Вниз
+Up=Вверх
+Revert=Отменить
+Swap=Поменять
+This key is already used by "Swap Character", do you want to swap the binding?=Эта клавиша уже используется функцией «Сменить персонажа», вы хотите поменять привязку?
+Swap Character=Сменить персонажа
+Move Camera=Переместить камеру
+Move Character=Переместить персонажа
+Diorama View=Вид на диораму
+    Special=Особенность
+Action=Действие
+#
+# Буквы для клавиш
+#
+Q=Q
+W=W
+E=E
+R=R
+T=T
+Y=Y
+U=U
+I=I
+O=O
+P=P
+A=A
+S=S
+D=D
+F=F
+G=G
+H=H
+J=J
+K=K
+L=L
+Z=Z
+X=X
+C=C
+V=V
+B=B
+N=N
+M=M
+Esc=Esc
+Space=Space
+Tab=Tab
+#
+# Меню "Контроллер"
+#
+Classic=Классическое
+Reverse=Инвертированное
+#
+# Меню "Доступность"
+#
+Dyslexic Font=Шрифт для дислексиков (не работает для русского текста)
+Text Speed=Скорость текста
+Header=Заголовок
+Drop=Бросить
+Pause=Пауза
+Fast=Быстрая
+Slow=Медленная
+Normal=Нормальная
+#
+# Меню "Главы"
+#
+???=???
+Chapter 1:=Глава 1:
+Gloomy=Мрачок
+Chapter 2:=Глава 2:
+Ceaseless Routines=Бесконечные будни
+Chapter 3:=Глава 3:
+Nena=Нена
+Chapter 4:=Глава 4:
+Into the Woods=В глубь леса
+Chapter 5:=Глава 5:
+An Awaited Encounter=Долгожданная встреча
+Chapter 6:=Глава 6:
+The Hidden Refuge=Потаённое убежище
+Chapter 7:=Глава 7:
+Chapter 8:=Глава 8:
+Chapter 9:=Глава 9:
+Chapter 10:=Глава 10:
+Chapter 11:=Глава 11:
+Chapter 12:=Глава 12:
+Chapter 13:=Глава 13:
+Chapter 14:=Глава 14:
+#
+# Разное
+#
+Toggle Lights=Переключить освещение
+Take Screenshot=Сделать снимок экрана
+Main Menu=Главное меню
+Unavailable=Недоступно
+Depth of Field\n=Глубина резкости\n
+Controls=Элементы управления
+Toggle Mode=Переключить режим
+Toggle UI=Переключить интерфейс
+Diorama view is unavailable=Просмотр диорамы недоступен.
+Play / Pause\n=Воспроизведение / Пауза\n
+Reload Last Checkpoint=Загрузить последнюю контрольную точку
+ZQSD / arrows=ZQSD / стрелки
+Rotate Camera\n=Поворот камеры\n
+Game Speed=Скорость игры
+Passer=Прохожий
+Move Up/Down\n=Переместить вверх/вниз\n
+Captures are saved in the Captures/ folder=Снимки сохраняются в папке «Captures/».
+Mouse\n=Мышь\n
+# Меню предметов
+Spin=Вращать
+Hide Text=Скрыть текст
+Reset Rotation=Сбросить вращение
+Display Text=Показать текст
+Rotate = Поворот
+#
+# Меню Esc
+#
+Restart=Перезапустить
+Return to the Main Menu=Вернуться в главное меню
+Are you sure?=Вы уверены?
+Restart from the beginning=Начать сначала
+Exit the Game=Выход из игры
+# Пропуск диалога
+Skip=Пропустить
+#
+# Глава 1
+#
+# Начальная заставка, рассказчик рассказывает о персонаже (главный герой, мертвец зомби, светящиеся глаза) на экране, который тычет костью мертвеца в кучу грязи
+That’s Gloomy. =Это Мрачок. 
+Always looking for something to play with.=Вечно в поисках игрушек.
+And chasing fireflies...=И гоняется за светлячками...
+# Живой рассказчик
+This is a horrific world. I'd tell you to make the best of it, but then I'd be lying. =Это чудовищный мир. Я бы сказал тебе — бери от него лучшее, но это было бы враньём.  
+There's no way to make it better.=Лучше он не станет.
+# Рассказчик
+I buried that boy.=Я похоронил этого мальчика.
+Not a soul came to say goodbye.=Проститься с ним не пришла ни одна душа.
+If only those human boys would have let him play with them.=Если бы только те людские мальчишки взяли его поиграть.
+He’d promised not to eat them.=Он обещал их не есть.
+He’d told them as much.=Так им и сказал.
+But I guess all they saw was a crazed zombie. =Но, видно, они видели перед собой только обезумевшего зомби. 
+The day one buries a child is the day one stops believing.=В тот день, когда хоронишь ребёнка, ты перестаёшь верить.
+It’s when I accepted all hope was lost.=Именно тогда я смирился с тем, что надежды больше нет.
+Although I knew better, as I covered him with dirt, I imagined he had found peace.=Хоть я и знал, что это не так, — забрасывая его землёй, я представлял, что он обрёл покой.
+But he came back.=Но он вернулся.
+Of course, he came back.=Ну разумеется, он вернулся.
+# Предмет
+A special place requires special care=Особое место требует особого ухода
+# Слова рассказчика при нахождении предмета
+Though Gloomy loved the night, he missed the warmth of The Sun on his skin.=Хотя Мрачок и любил ночь, ему не хватало тепла Солнца на его коже.
+#
+# Глава 2
+#
+# Рассказчик
+The Sun had grown tired of the idiocy of humans.=Солнце устало от человеческой глупости.
+# ↓ он - солнце
+He'd left, to never rise again.=Оно ушло — чтобы больше не взойти.
+Instead, zombies rose from their graves.=А вместо него из могил поднялись зомби.
+Gloomy was lost.=Мрачок потерялся.
+Forever in limbo.=Навсегда — меж двух миров.
+For the dead cannot die nor truly live. =Ибо мёртвые не могут ни умереть, ни по-настоящему жить.
+# Живой рассказчик
+You may not know this, but the living see their own monstrosity mirrored in the dead.=Ты, может, и не знаешь, но живые видят в мёртвых отражение собственного чудовища.
+That's why they fear them.=Потому и боятся.
+# Рассказчик
+If there was one thing Gloomy knew, it was that grown-ups were stupid.=Одно Мрачок знал твёрдо: взрослые — дураки.
+Dead, or alive.=Живые или мёртвые.
+Lucky for Gloomy, there were plenty of things to hurl around.=К счастью для Мрачка, швырять вокруг было что.
+Which he thought was always great fun.=И это он всегда считал лучшей забавой.
+Humans were forever on the hunt for Gloomy, the zombie boy. =Люди вечно охотились на Мрачка — мальчика-зомби. 
+They knew about him.=Они о нём знали.
+About the sheer force of his dead muscles.=О том, на что способны его мёртвые мышцы.
+The rage that would sometimes overtake him.=О ярости, что порой его захлёстывала.
+He was dangerous.=Он был опасен.
+When zombies first roamed these lands, the humans fled to the cities.=Когда зомби впервые расползлись по этим землям, люди бежали в города.
+Humans united in enclaves.=Люди сбивались в анклавы.
+Joined forces and shared their resources.=Объединяли силы и делили припасы.
+They felt safe, and didn't want to go back.=Они чувствовали себя в безопасности — и возвращаться не желали.
+For a moment I saw the beauty of humankind again, and I was hopeful. =На миг я снова увидел красоту человечества — и во мне затеплилась надежда.
+But then the Priest called his citizens to arms. =Но тут Священник призвал своих горожан взяться за оружие. 
+And they changed their minds.=И они передумали.
+They wanted their land back.=Они хотели вернуть свою землю.
+And the zombies gone.=И чтобы зомби убрались.
+Like tiny rays of sunlight, those fireflies led him where he needed to be.=Точно крошечные лучики солнца, эти светлячки вели его туда, куда ему было нужно.
+Gloomy didn't care where that was.=Мрачку было всё равно куда.
+As long as they played with him.=Лишь бы с ним играли.
+#
+# Глава 3
+#
+# Рассказчик
+Nena. She was different. I'd known that since the day she arrived.=Нена. Она была другой. Я знал это с того дня, как она появилась.
+She was so excited.=Она так загорелась.
+She was investigating The Sun's disappearance.=Она расследовала исчезновение Солнца.
+She wanted to find him.=Она хотела его найти.
+And I thought she was right to try, at least.=И я подумал: по крайней мере, попробовать стоит.
+Fireflies...=Светлячки...
+They'd come to find her.=Они пришли за ней.
+She thought fireflies looked like little flying stars.=Ей казалось, что светлячки — это маленькие летающие звёзды.
+And The Sun was a star, wasn't it?=А Солнце ведь тоже звезда, верно?
+# Предмет (дневник)
+I went outside today with my dog Perrito but I lost him again!\n\nWho?!\n\nUncle's devices \n\nVery scary I didn't like them\n\n______\n\nNena's Detective Diary\n\nFrom: Uncle    <br>To: Nena=Я сегодня выходила на улицу с моим псом Перрито, но опять его потеряла!\n\nКто?!\n\nДядины штуковины \n\nОчень страшные, мне не понравились\n\n______\n\nДневник сыщицы Нены\n\nОт: Дядя    <br>Кому: Нена
+# Расскачик о предмете
+The boy. He was the first child to come back from the dead...=Мальчик. Он был первым ребёнком, вернувшимся с того света...
+# Рассказчик
+So maybe… these little fire stars could take her to The Sun.=Так, может... эти маленькие огненные звёзды и приведут её к Солнцу.
+And she could ask him to come back.=И она попросит его вернуться.
+Her uncle... She had to be careful, or there would be no escape.=Её дядя... С ним надо быть осторожной, иначе не выбраться.
+All grown-ups kept their children locked inside.=Все взрослые держали своих детей под замком.
+How she loathed being stuck within these old walls.=Как же ей опостылели эти старые стены.
+A game of marbles was all Nena was allowed.=Нене разрешали играть только в шарики.
+# Живой рассказчик
+The Sun is in hiding, with no plans to ever rise again. You can stop looking.=Солнце скрылось и всходить больше не собирается. Можешь прекратить поиски.
+# Рассказчик
+All her uncle cared about was catching zombies.=Дядю волновало одно — ловить зомби.
+He called himself the Priest. Loved playing humanity’s savior.=Он называл себя Священником. Обожал изображать спасителя человечества.
+In truth, he would be its undoing.=А на самом деле он человечество и погубит.
+She really wanted The Sun back. =Ей так хотелось вернуть Солнце. 
+She would love to play outside with the sunlight on her face.=Она бы с радостью играла на улице, подставляя лицо солнечному свету.
+She was going to find The Sun.=Она найдёт Солнце.
+Nena was about to embark on an adventure that could change the course of all our lives.=Нена стояла на пороге приключения, которое могло переменить ход всех наших жизней.
+But what do my thoughts matter to anyone?=Но кому какое дело до моих мыслей?
+I'm just a gravekeeper...=Я всего лишь могильщик...
+#
+# Глава 4
+#
+# Рассказчик
+Nena was grateful for the moon, because the darkness frightened her.=Нена была рада луне — темнота её пугала.
+Here in the garden, the zombies were harmless.=Здесь, в саду, зомби были безобидны.
+Locked away by her uncle, trapped in the blazing light.=Запертые дядей, они застряли в слепящем свете.
+She knew about the zombie boy.=Она знала про мальчика-зомби.
+Gloomy.=Про Мрачка.
+Her uncle claimed that he’d swallowed The Sun whole.=Дядя уверял, будто тот проглотил Солнце целиком.
+# Живой рассказчик
+When you see that boy, tell him I'm still here. That child may be our only hope...=Увидишь того мальчика — скажи ему, что я всё ещё здесь. Этот ребёнок, может статься, наша последняя надежда...
+# Рассказчик
+They said his eyes shone a sulfurous yellow.=Говорили, будто глаза у него горят серно-жёлтым.
+But Nena pictured those eyes shining like The Sun himself.=А Нена представляла, что они сияют, как само Солнце.
+According to her uncle, the zombies had declared war on the humans.=По словам дяди, зомби объявили людям войну.
+“What other response was there but to fight back?” he said.=«А что ещё оставалось, кроме как дать сдачи?» — говорил он.
+He was their Priest, their commander-in-chief.=Он был их Священником, их главнокомандующим.
+“Humanity's last hope,” he said.=«Последняя надежда человечества», — говорил он.
+I've always found that hard to believe. =Мне в это всегда плохо верилось. 
+# Предмет (плакат)
+Look behind for more\n\n______\n\nKeep your family safe from the dead!!\n\nJoin us and bring peace, purification, and liberty back to your LAND!=На обороте есть ещё\n\n______\n\nУбереги семью от мёртвых!!\n\nВступай к нам и верни своей ЗЕМЛЕ мир, очищение и свободу!
+# Рассказчик о предмете
+Many had lost loved ones to the zombies. Nena too. But she wasn't sure that war was the answer.=Многие потеряли близких из-за зомби. Нена тоже. Но она не была уверена, что война — ответ.
+# Рассказчик
+These woods were very dark indeed.=В этих лесах и вправду было очень темно.
+The black bare branches of the trees and the wet old leaves covering the ground=Чёрные голые ветви деревьев и мокрые старые листья, покрывшие землю,
+Made a perfect veil for groping hands and bared teeth.=Служили отличной завесой для шарящих рук и оскаленных зубов.
+Maybe this wasn't such a good idea after all.=Может, всё это было не такой уж хорошей затеей.
+#
+# Глава 5
+#
+# Рассказчик
+The old school. Gloomy knew it well.=Старая школа. Мрачок знал её хорошо.
+The toys lying around held the promise of joy. =Разбросанные игрушки обещали радость.
+But he’d forgotten how to play with them.=Но он забыл, как с ними играть.
+He had tried throwing them, but that wasn’t nearly as satisfying as hurling bricks and bones.=Он пробовал их швырять, но это было совсем не так приятно, как швырять кирпичи и кости.
+Nena thought of the school as a magical place where children came to play.=Для Нены школа была волшебным местом, куда дети приходили играть.
+Before the dark cold cloaked the world.=До того, как тёмный холод укрыл мир.
+Tonight it wasn’t the broken toys that called to Gloomy.=Этим вечером Мрачка манили не сломанные игрушки.
+There was something else.=Что-то другое.
+Why did she come here?=Зачем она сюда пришла?
+Nena wasn’t sure anymore.=Нена уже не знала.
+Because the magic she thought she'd find here... it wasn’t real.=Потому что волшебство, которое она надеялась здесь найти... его не было.
+# Рассказчик о предмете (школьный рюкзак, внутри учебники, скакалка, кукла, йо-йо)
+Ah, yes. Once upon a time children were free to play. One would almost forget.=Ах да. Когда-то дети могли играть свободно. Об этом почти забываешь.
+# Рассказчик
+Yet something drew her in.=И всё же что-то влекло её внутрь.
+She could feel it.=Она это чувствовала.
+# Живой рассказчик
+Humans... What they say is never true.=Люди... Что они ни скажут — всё ложь.
+It's best if you figure it out for yourselves.=До всего лучше доходить своим умом.
+# Рассказчик
+There were no answers to be found here.=Ответов здесь было не найти.
+She knew that now.=Теперь она это знала.
+There are other stories I could tell about those days,=Я мог бы рассказать и другие истории о тех днях,
+But this is the one people need to hear.=Но эту людям нужно услышать.
+These children didn’t know they would rattle the world.=Эти дети не знали, что всколыхнут весь мир.
+And then it all fell to pieces.=А потом всё разлетелось на куски.
+How I wished someone would have disposed of that Priest.=Как же мне хотелось, чтобы кто-нибудь убрал этого Священника.
+I would have buried him gladly.=Я бы с радостью его схоронил.
+Because this was all wrong.=Потому что всё это было неправильно.
+She had lost him.=Она его потеряла.
+#
+# Глава 6
+#
+# Рассказчик
+It was too dark in these dense woods.=В этих густых лесах было слишком темно.
