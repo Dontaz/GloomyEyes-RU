@@ -1,5 +1,10 @@
 # Русификатор для игры «Gloomy Eyes»
 
+<picture>
+	<source srcset="img/banner_anim.avif" type="image/avif">
+	<img src="img/banner.webp" alt="banner" width="1168" height="499">
+</picture>
+
 Ручной перевод с подбором шрифтов.
 
 **На данный момент идёт процесс перевода.**
