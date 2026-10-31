@@ -162,6 +162,7 @@ An Awaited Encounter=Долгожданная встреча
 Chapter 6:=Глава 6:
 The Hidden Refuge=Потаённое убежище
 Chapter 7:=Глава 7:
+A Perilous Venture=Рисковое дело
 Chapter 8:=Глава 8:
 Chapter 9:=Глава 9:
 Chapter 10:=Глава 10:
@@ -182,7 +183,6 @@ Toggle Mode=Переключить режим
 Toggle UI=Переключить интерфейс
 Diorama view is unavailable=Просмотр диорамы недоступен.
 Play / Pause\n=Воспроизведение / Пауза\n
-Reload Last Checkpoint=Загрузить последнюю контрольную точку
 ZQSD / arrows=ZQSD / стрелки
 Rotate Camera\n=Поворот камеры\n
 Game Speed=Скорость игры
@@ -199,7 +199,9 @@ Rotate = Поворот
 #
 # Меню Esc
 #
+Reload Last Checkpoint=Загрузить последнюю контрольную точку
 Restart=Перезапустить
+Restart at last checkpoint=Перезапустить с последней контрольной точки
 Return to the Main Menu=Вернуться в главное меню
 Are you sure?=Вы уверены?
 Restart from the beginning=Начать сначала
@@ -245,7 +247,7 @@ Forever in limbo.=Навсегда — меж двух миров.
 For the dead cannot die nor truly live. =Ибо мёртвые не могут ни умереть, ни по-настоящему жить.
 # Живой рассказчик
 You may not know this, but the living see their own monstrosity mirrored in the dead.=Ты, может, и не знаешь, но живые видят в мёртвых отражение собственного чудовища.
-That's why they fear them.=Потому и боятся.
+That's why they fear them.=Потому и боятся их.
 # Рассказчик
 If there was one thing Gloomy knew, it was that grown-ups were stupid.=Одно Мрачок знал твёрдо: взрослые — дураки.
 Dead, or alive.=Живые или мёртвые.
@@ -268,6 +270,10 @@ And the zombies gone.=И чтобы зомби убрались.
 Like tiny rays of sunlight, those fireflies led him where he needed to be.=Точно крошечные лучики солнца, эти светлячки вели его туда, куда ему было нужно.
 Gloomy didn't care where that was.=Мрачку было всё равно куда.
 As long as they played with him.=Лишь бы с ним играли.
+# Предмет (газета)
+Daily news\n\nThe Dead are rising!\n\nHow is this possible?\n\n______\n\nA call for help has been sent to the city\n\nGet to the closest shelter=Ежедневные новости\n\nМёртвые встают из могил!\n\nКак такое возможно?\n\n______\n\nЗа помощью отправили в город\n\nИдите в ближайшее убежище
+# Рассказчик о предмете
+The memory of those first zombies rising from their graves still terrified most.=Память о тех первых зомби, что поднялись из могил, до сих пор приводила в ужас почти всех.
 #
 # Глава 3
 #
@@ -372,3 +378,97 @@ She had lost him.=Она его потеряла.
 #
 # Рассказчик
 It was too dark in these dense woods.=В этих густых лесах было слишком темно.
+That boy couldn’t be more different from her.=Тот мальчик был совсем не похож на неё.
+And that’s exactly why she needed to get to him.=И именно поэтому ей нужно было до него добраться.
+She had not expected him.=Она его не ожидала.
+When she had looked into those golden eyes,=Когда она заглянула в эти золотые глаза,
+She'd felt the magic she’d been looking for.=Она почувствовала то волшебство, которое искала.
+# Живой рассказчик
+This tree is quite something, isn't it?=Ну и дерево, да?
+This is the life that can grow without the idiocy of humans.=Вот она — жизнь, которая может расти без человеческой глупости.
+# Рассказчик
+She’d never seen a tree this tall.=Она никогда не видела такого высокого дерева.
+Nor such luminescence in the plants and flowers climbing up its trunk.=И такого сияния в растениях и цветах, что карабкались по его стволу.
+The life that tree harbored was unheard of.=Никто и вообразить не мог, сколько жизни гнездится в одном дереве.
+This was Gloomy’s home.=Это был дом Мрачка.
+How often had he climbed these vines?=Сколько раз он взбирался по этим лианам?
+She found herself daydreaming about climbing trees with him.=Незаметно для себя она размечталась, будто они вдвоём лазают по деревьям.
+# Рассказчик о предмете (голова из грязи, костей, веток. На ней маска из дерева. Из глаз идёт свет)
+That looked a lot like The Sun, and Nena marveled. Did Gloomy make this?=Это было очень похоже на Солнце, и Нена подивилась. Неужели Мрачок это сделал?
+# Рассказчик
+There she was, the human girl.=Вот она — девочка из живых.
+Because she liked his drawing of The Sun, he wanted to share its secret with her.=Раз ей понравился его рисунок Солнца, он захотел открыть ей его тайну.
+He pointed at the yellow light piercing through the trees from beyond the forest.=Он указал на жёлтый свет, что пробивался сквозь деревья из-за леса.
+They were going to go find The Sun. Together.=Они пойдут искать Солнце. Вместе.
+#
+# Глава 7
+#
+# Рассказчик
+They said zombies were man’s enemy.=Говорили, что зомби — враги человека.
+They had no idea what they were talking about.=Они понятия не имели, о чём говорят.
+Now that Gloomy was with her, Nena wasn’t scared anymore.=Теперь, когда Мрачок был рядом, Нена больше не боялась.
+With him, she was safe from the other zombies.=С ним ей были не страшны остальные зомби.
+# Предмет (тетрадный лист с записками от культиста)
+Monday the 14th\nYesterday was my birthday.\nMy colleagues made some cake for me.\nThey also gave me a new hat.\n\nTuesday the 15th\nI hope I'll be part of the team that works in the amusement park!\n\n______\n\nThe Priest's new machine is really POWERFUL!!!\nbut scary...\n\nWe need a lot of metal pieces to finish it.\n\nNeed more energy=Понедельник, 14-е\nВчера был мой день рождения.\nКоллеги испекли мне торт.\nЕщё подарили новую шляпу.\n\nВторник, 15-е\nНадеюсь, я попаду в бригаду, которая будет работать в парке развлечений!\n\n______\n\nНовая машина Священника реально МОЩНАЯ!!!\nно страшная...\n\nЧтобы её закончить, нужно много металлических деталей.\n\nНужно больше энергии
+# Рассказчик о предмете
+What did the Cultists want with an amusement park? =Зачем культистам парк развлечений? 
+# Рассказчик
+Nena had thought that this lush forest might bring some relief to the humans’ daily agony,=Нена думала, что этот пышный лес хоть немного облегчит людям их ежедневные муки,
+And she had considered running home to tell them about it. =И подумывала сбегать домой, чтобы рассказать о нём. 
+But she soon realized that they already knew about the woods.=Но вскоре поняла, что о лесе они и так знают.
+# Живой расскачик
+These humans are ruining the only place left humming with life in this otherwise dead world.=Эти люди губят единственное место в этом мёртвом мире, где ещё бурлит жизнь.
+# Рассказчик
+The Cultists were cutting down trees to accommodate their camps and craft zombie traps.=Культисты валили лес — расчищали место под лагеря, а из стволов делали ловушки на зомби.
+They were destroying these woods.=Они уничтожали этот лес.
+What the humans had told her was all she knew.=Всё, что она знала, она знала с людских слов.
+Their every word turned out to be a lie.=Каждое их слово оказывалось ложью.
+Nena understood that her own people were a threat to Gloomy.=Нена поняла, что её собственный народ — угроза для Мрачка.
+That they could take him from her.=Что они могут его у неё отнять.
+The thought terrified her.=От этой мысли ей становилось страшно.
+Entirely focused on danger coming from outside the camp, the Cultists forgot to look within.=Культисты стерегли лагерь от того, что шло извне, и не подумали заглянуть внутрь.
+If they had, they might have seen her.=Загляни они внутрь — и увидели бы её.
+The only way to the light was straight through hell.=Единственный путь к свету лежал прямо через ад.
+They didn’t hesitate.=Они не колебались.
+That’s why they were here.=За этим они и пришли.
+#
+# Глава 8
+#
+Rising Threats
+# Рассказчик
+The old mines.
+The sight of it chilled Nena’s blood.
+To transport their stockpile of deadly weapons.
+And mine, whenever I think of it.
+They had to be smart about this.
+There was only one way forward.
+She needed his strength. He needed her wits.
+I’m glad they understood that.
+Nena felt they had strayed.
+She needed to get her bearings.
+They must have taken a wrong turn.
+# Предмет (скрипка с нотами)
+Demise of the Undead\n\nBetter like this\n\n______\n\nDon't forget:\nPass on new instructions:\nCapture fireflies not zombies
+# Рассказчик о предмете
+The Priest needed fireflies. He was hatching new and evil plans, that much was clear.
+# Живой расскачик
+You two may be the only thing that makes sense in this world.
+# Рассказчик
+It had been his choice
+To go find The Sun with Nena, a human.
+Maybe he should have stuck with his own kind after all.
+All that kid wanted was to stay with her.
+Even if he didn't know how to be a boy.
+How to be human.
+None of it was easy, but she would see this through.
+When the Cultists raised the alarms, the children knew they'd been found out.
+Maybe I should have intervened, but I just didn’t know how.
+#
+# Глава 9
+#
+The Sunken Light
+# Рассказчик
+I could see it too.
+The glow of light across the water, beckoning.
+It had to be The Sun.
+
