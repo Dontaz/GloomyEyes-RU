@@ -71,8 +71,6 @@ Fullscreen Window=Полноэкранный режим
 Windowed=Оконный
 Exclusive Fullscreen=Эксклюзивный полноэкранный режим
 Resolution=Разрешение
-1920x1080=1920x1080
-1680x1050=1680x1050
 Quality=Качество
 High=Высокое
 Low=Низкое
@@ -98,7 +96,7 @@ Diorama View=Вид на диораму
     Special=Особенность
 Action=Действие
 #
-# Буквы для клавиш
+# Буквы для клавиш (латиница)
 #
 Q=Q
 W=W
@@ -129,6 +127,41 @@ M=M
 Esc=Esc
 Space=Space
 Tab=Tab
+#
+# Буквы для клавиш (кириллица)
+#
+Й=Q
+Ц=W
+У=E
+К=R
+Е=T
+Н=Y
+Г=U
+Ш=I
+Щ=O
+З=P
+Х={
+Ъ=}
+Ф=A
+Ы=S
+В=D
+А=F
+П=G
+Р=H
+О=J
+Л=K
+Д=L
+Ж=:
+Э="
+Я=Z
+Ч=X
+С=C
+М=V
+И=B
+Т=N
+Ь=M
+Б=<
+Ю=>
 #
 # Меню "Контроллер"
 #
@@ -164,6 +197,7 @@ The Hidden Refuge=Потаённое убежище
 Chapter 7:=Глава 7:
 A Perilous Venture=Рисковое дело
 Chapter 8:=Глава 8:
+Rising Threats=Растущие угрозы
 Chapter 9:=Глава 9:
 Chapter 10:=Глава 10:
 Chapter 11:=Глава 11:
@@ -231,8 +265,9 @@ Although I knew better, as I covered him with dirt, I imagined he had found peac
 But he came back.=Но он вернулся.
 Of course, he came back.=Ну разумеется, он вернулся.
 # Предмет
+Gloomy's Drawing=Рисунок Мрачка
 A special place requires special care=Особое место требует особого ухода
-# Слова рассказчика при нахождении предмета
+# Слова рассказчика о предмете
 Though Gloomy loved the night, he missed the warmth of The Sun on his skin.=Хотя Мрачок и любил ночь, ему не хватало тепла Солнца на его коже.
 #
 # Глава 2
@@ -270,7 +305,8 @@ And the zombies gone.=И чтобы зомби убрались.
 Like tiny rays of sunlight, those fireflies led him where he needed to be.=Точно крошечные лучики солнца, эти светлячки вели его туда, куда ему было нужно.
 Gloomy didn't care where that was.=Мрачку было всё равно куда.
 As long as they played with him.=Лишь бы с ним играли.
-# Предмет (газета)
+# Предмет
+Old Newspaper=Старая газета
 Daily news\n\nThe Dead are rising!\n\nHow is this possible?\n\n______\n\nA call for help has been sent to the city\n\nGet to the closest shelter=Ежедневные новости\n\nМёртвые встают из могил!\n\nКак такое возможно?\n\n______\n\nЗа помощью отправили в город\n\nИдите в ближайшее убежище
 # Рассказчик о предмете
 The memory of those first zombies rising from their graves still terrified most.=Память о тех первых зомби, что поднялись из могил, до сих пор приводила в ужас почти всех.
@@ -287,7 +323,8 @@ Fireflies...=Светлячки...
 They'd come to find her.=Они пришли за ней.
 She thought fireflies looked like little flying stars.=Ей казалось, что светлячки — это маленькие летающие звёзды.
 And The Sun was a star, wasn't it?=А Солнце ведь тоже звезда, верно?
-# Предмет (дневник)
+# Предмет
+Nena's Diary=Дневник Нены
 I went outside today with my dog Perrito but I lost him again!\n\nWho?!\n\nUncle's devices \n\nVery scary I didn't like them\n\n______\n\nNena's Detective Diary\n\nFrom: Uncle    <br>To: Nena=Я сегодня выходила на улицу с моим псом Перрито, но опять его потеряла!\n\nКто?!\n\nДядины штуковины \n\nОчень страшные, мне не понравились\n\n______\n\nДневник сыщицы Нены\n\nОт: Дядя    <br>Кому: Нена
 # Расскачик о предмете
 The boy. He was the first child to come back from the dead...=Мальчик. Он был первым ребёнком, вернувшимся с того света...
@@ -330,7 +367,8 @@ According to her uncle, the zombies had declared war on the humans.=По сло�
 He was their Priest, their commander-in-chief.=Он был их Священником, их главнокомандующим.
 “Humanity's last hope,” he said.=«Последняя надежда человечества», — говорил он.
 I've always found that hard to believe. =Мне в это всегда плохо верилось. 
-# Предмет (плакат)
+# Предмет
+Propaganda Poster=Агитационный плакат
 Look behind for more\n\n______\n\nKeep your family safe from the dead!!\n\nJoin us and bring peace, purification, and liberty back to your LAND!=На обороте есть ещё\n\n______\n\nУбереги семью от мёртвых!!\n\nВступай к нам и верни своей ЗЕМЛЕ мир, очищение и свободу!
 # Рассказчик о предмете
 Many had lost loved ones to the zombies. Nena too. But she wasn't sure that war was the answer.=Многие потеряли близких из-за зомби. Нена тоже. Но она не была уверена, что война — ответ.
@@ -354,7 +392,9 @@ There was something else.=Что-то другое.
 Why did she come here?=Зачем она сюда пришла?
 Nena wasn’t sure anymore.=Нена уже не знала.
 Because the magic she thought she'd find here... it wasn’t real.=Потому что волшебство, которое она надеялась здесь найти... его не было.
-# Рассказчик о предмете (школьный рюкзак, внутри учебники, скакалка, кукла, йо-йо)
+# Предмет (школьный рюкзак, внутри учебники, скакалка, кукла, йо-йо)
+Backpack=Рюкзак
+# Рассказчик о предмете
 Ah, yes. Once upon a time children were free to play. One would almost forget.=Ах да. Когда-то дети могли играть свободно. Об этом почти забываешь.
 # Рассказчик
 Yet something drew her in.=И всё же что-то влекло её внутрь.
@@ -393,7 +433,9 @@ The life that tree harbored was unheard of.=Никто и вообразить �
 This was Gloomy’s home.=Это был дом Мрачка.
 How often had he climbed these vines?=Сколько раз он взбирался по этим лианам?
 She found herself daydreaming about climbing trees with him.=Незаметно для себя она размечталась, будто они вдвоём лазают по деревьям.
-# Рассказчик о предмете (голова из грязи, костей, веток. На ней маска из дерева. Из глаз идёт свет)
+# Предмет (голова из грязи, костей, веток. На ней маска из дерева. Из глаз идёт свет)
+Handcrafted Sun=Сделанное вручную Солнце
+# Рассказчик о предмете
 That looked a lot like The Sun, and Nena marveled. Did Gloomy make this?=Это было очень похоже на Солнце, и Нена подивилась. Неужели Мрачок это сделал?
 # Рассказчик
 There she was, the human girl.=Вот она — девочка из живых.
@@ -409,6 +451,7 @@ They had no idea what they were talking about.=Они понятия не име
 Now that Gloomy was with her, Nena wasn’t scared anymore.=Теперь, когда Мрачок был рядом, Нена больше не боялась.
 With him, she was safe from the other zombies.=С ним ей были не страшны остальные зомби.
 # Предмет (тетрадный лист с записками от культиста)
+Cultist's Diary=Дневник культиста
 Monday the 14th\nYesterday was my birthday.\nMy colleagues made some cake for me.\nThey also gave me a new hat.\n\nTuesday the 15th\nI hope I'll be part of the team that works in the amusement park!\n\n______\n\nThe Priest's new machine is really POWERFUL!!!\nbut scary...\n\nWe need a lot of metal pieces to finish it.\n\nNeed more energy=Понедельник, 14-е\nВчера был мой день рождения.\nКоллеги испекли мне торт.\nЕщё подарили новую шляпу.\n\nВторник, 15-е\nНадеюсь, я попаду в бригаду, которая будет работать в парке развлечений!\n\n______\n\nНовая машина Священника реально МОЩНАЯ!!!\nно страшная...\n\nЧтобы её закончить, нужно много металлических деталей.\n\nНужно больше энергии
 # Рассказчик о предмете
 What did the Cultists want with an amusement park? =Зачем культистам парк развлечений? 
@@ -434,35 +477,35 @@ That’s why they were here.=За этим они и пришли.
 #
 # Глава 8
 #
-Rising Threats
 # Рассказчик
-The old mines.
-The sight of it chilled Nena’s blood.
-To transport their stockpile of deadly weapons.
-And mine, whenever I think of it.
-They had to be smart about this.
-There was only one way forward.
-She needed his strength. He needed her wits.
-I’m glad they understood that.
-Nena felt they had strayed.
-She needed to get her bearings.
-They must have taken a wrong turn.
+The old mines.=Старые шахты.
+The sight of it chilled Nena’s blood.=От одного их вида у Нены стыла кровь.
+To transport their stockpile of deadly weapons.=По ним перевозили запасы смертоносного оружия.
+And mine, whenever I think of it.=А у меня стынет — всякий раз, как вспомню.
+They had to be smart about this.=Тут им нужно было действовать с умом.
+There was only one way forward.=Путь был только один.
+She needed his strength. He needed her wits.=Ей нужна была его сила. Ему — её смекалка.
+I’m glad they understood that.=Рад, что они это понимали.
+Nena felt they had strayed.=Нене казалось, что они сбились с пути.
+She needed to get her bearings.=Ей нужно было понять, куда их занесло.
+They must have taken a wrong turn.=Должно быть, они свернули не туда.
 # Предмет (скрипка с нотами)
-Demise of the Undead\n\nBetter like this\n\n______\n\nDon't forget:\nPass on new instructions:\nCapture fireflies not zombies
+Violin Score=Партитура для скрипки
+Demise of the Undead\n\nBetter like this\n\n______\n\nDon't forget:\nPass on new instructions:\nCapture fireflies not zombies=«Гибель нежити»\n\nТак лучше\n\n______\n\nНе забудь:\nПередай новые указания:\nЛовить светлячков, а не зомби
 # Рассказчик о предмете
-The Priest needed fireflies. He was hatching new and evil plans, that much was clear.
+The Priest needed fireflies. He was hatching new and evil plans, that much was clear.=Священнику понадобились светлячки. Он затевал новое зло — тут и гадать было нечего.
 # Живой расскачик
-You two may be the only thing that makes sense in this world.
+You two may be the only thing that makes sense in this world.=Вы двое — пожалуй, единственное, в чём ещё есть смысл в этом мире.
 # Рассказчик
-It had been his choice
-To go find The Sun with Nena, a human.
-Maybe he should have stuck with his own kind after all.
-All that kid wanted was to stay with her.
-Even if he didn't know how to be a boy.
-How to be human.
-None of it was easy, but she would see this through.
-When the Cultists raised the alarms, the children knew they'd been found out.
-Maybe I should have intervened, but I just didn’t know how.
+It had been his choice=Это был его выбор —
+To go find The Sun with Nena, a human.=Отправиться искать Солнце с Неной, живой девочкой.
+Maybe he should have stuck with his own kind after all.=Может, стоило всё-таки остаться среди своих.
+All that kid wanted was to stay with her.=Всё, чего хотел этот мальчик, — остаться с ней.
+Even if he didn't know how to be a boy.=Даже если он не знал, как быть мальчиком.
+How to be human.=Как быть человеком.
+None of it was easy, but she would see this through.=Ничего не давалось легко, но она не отступится.
+When the Cultists raised the alarms, the children knew they'd been found out.=Когда культисты подняли тревогу, дети поняли, что их раскрыли.
+Maybe I should have intervened, but I just didn’t know how.=Может, мне стоило вмешаться, но я просто не знал как.
 #
 # Глава 9
 #
