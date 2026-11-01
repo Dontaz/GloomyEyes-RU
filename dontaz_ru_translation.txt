@@ -13,7 +13,7 @@ Published by=Издано
 #
 Play=Играть
 Continue=Продолжить
-Select Save Slot=Выберите слот для сохранения
+Select Save Slot=Выбрать слот сохранения <space\=6em><color\=purple><b>Перевёл <u>Dontaz</u>  <sprite\=0><sub> v1.0</sub></b></color>
 Chapters=Главы
 Mementos=Памятные вещи
 Select=Выбрать
@@ -199,6 +199,7 @@ A Perilous Venture=Рисковое дело
 Chapter 8:=Глава 8:
 Rising Threats=Растущие угрозы
 Chapter 9:=Глава 9:
+The Sunken Light=Сокрытый под водой свет
 Chapter 10:=Глава 10:
 Chapter 11:=Глава 11:
 Chapter 12:=Глава 12:
@@ -509,9 +510,44 @@ Maybe I should have intervened, but I just didn’t know how.=Может, мне
 #
 # Глава 9
 #
-The Sunken Light
 # Рассказчик
-I could see it too.
-The glow of light across the water, beckoning.
-It had to be The Sun.
+I could see it too.=Я тоже это видел.
+The glow of light across the water, beckoning.=Светлое сияние над водой, манящее.
+It had to be The Sun.=Это наверняка было Солнце.
+#Предмет
+Scientist's Note=Заметка учёного
+Bioluminescent mushrooms are increasingly growing around the lake.\n\nWhy is this happening? (same with trees)\n\nLake water temperature summary:\n\nThe lake is strange\nThe water is too hot\nWe must find out why...\n\n<s>Are those rays of light coming from the deeps?</s>Вокруг озера всё больше биолюминесцентных грибов.\n\nПочему так? (то же и с деревьями)\n\nСводка температуры воды в озере:\n\nОзеро странное\nВода слишком тёплая\nНадо выяснить почему...\n\n<s>Это из глубины идут лучи света?</s>
+#Рассказчик о предмете
+Someone else had taken note of nature's evolution and the emergence of bioluminescence.=Кто-то ещё заметил, как меняется природа и как появляется биолюминесценция.
+I wish they'd voiced their concerns back then.=Хотел бы я, чтобы тогда они высказались вслух.
+# Рассказчик
+They were so close.=Они были совсем близко.
+All they needed to do was get across this lake.=Всё, что оставалось, — перебраться через озеро.
+# Живой расскачик
+There's a softness to the breeze sweeping across these sands, =Ветер, что бежит по этому песку, — нежный, 
+Which I appreciate very much in these times of disaster.=И в нынешние горькие времена это мне очень по душе.
+# Рассказчик
+The children roamed the beach, building their boat, enjoying the sand underneath their feet.=Дети бродили по берегу, строили свою лодку, радуясь песку под ногами.
+This was their moment.=Это был их миг.
+This was their beach.=Это был их берег.
+They were each other’s secret.=Они были тайной друг друга.
+Finding The Sun was the only way Gloomy could ever stay with Nena.=Найти Солнце было единственным способом для Мрачка остаться с Неной.
+Under no circumstances would the Priest allow his niece to befriend a zombie.=Священник ни за что бы не позволил своей племяннице водиться с зомби.
+Nena couldn't believe she was about to find the very thing she had been looking for.=Нена не верила, что вот-вот найдёт то самое, что искала.
+The sunlight.=Солнечный свет.
+If The Sun agreed to come back, she could save so many people.=Если Солнце согласится вернуться, она сможет спасти столько людей.
+But good things don’t last.=Но хорошее не длится вечно.
+The Priest found them, again.=Священник нашёл их. Снова.
+With his floodlights covering the entire lake, there was no way to get to The Sun.=Его прожекторы заливали светом всё озеро — к Солнцу было не подобраться.
+#
+# Глава 10
+#
+Shimmers of Hope
+In awe, the children gazed at the wonders of this carnival fair.
+This looked unbelievably more fun than the school.
+The fireflies.
+They weren’t supposed to be trapped in those cages.
+It felt all wrong.
+Nena was just going to have to do something about that.
+
 
