@@ -93,7 +93,7 @@ Swap Character=Сменить персонажа
 Move Camera=Переместить камеру
 Move Character=Переместить персонажа
 Diorama View=Вид на диораму
-    Special=Особенность
+Special=Способность
 Action=Действие
 #
 # Буквы для клавиш (латиница)
@@ -543,11 +543,133 @@ With his floodlights covering the entire lake, there was no way to get to The Su
 # Глава 10
 #
 Shimmers of Hope
+# Рассказчик
 In awe, the children gazed at the wonders of this carnival fair.
 This looked unbelievably more fun than the school.
 The fireflies.
 They weren’t supposed to be trapped in those cages.
 It felt all wrong.
 Nena was just going to have to do something about that.
+That's when Nena understood that she’d never be alone again.
+No matter what, Gloomy would always come back for her.
+And she would never abandon him.
+In appreciation, the fireflies lit up the scene. 
+In their natural light, Gloomy could safely enjoy the fair too.
+Children must have come to play here all the time.
+Gloomy and Nena couldn't resist, and wanted to see everything
+She wanted boundless lights.
+# Предмет (вывеска)
+Amusement Park Panel
+AMUSEMENT PARK\n\n______\n\nAll leisure areas CLOSED
+# Рассказчик о предмете
+This fair was the first place to close down.
+# Живой рассказчик
+This is what joy feels like, children! Relish it!
+It won't last.
+# Рассказчик
+The fireflies would help her.
+If she asked them nicely.
+"Light up the sky, sweeties."
+That's what she whispered to them.
+These two children were finally truly having a good time. 
+The air rang with their laughter.
+Something I hadn’t heard in a long while.
+#
+# Глава 11
+#
+Chilled to the Bone
+# Рассказчик
+He had never been scared in his life.
+Or in death.
+And he wasn't about to start now, in front of Nena.
+A sudden unease settled in the pit of her stomach.
+More fireflies trapped in a cage. Nena couldn't understand why.
+Gloomy couldn't help but notice the amount of cages stacked around this place. 
+It was clear someone was catching zombies. 
+I think we all knew who that was.
+The children must have suspected him too.
+# Живой рассказчик
+Whatever we are given is taken away just as easily. 
+You'd do us all a great service if you remembered that.
+# Рассказчик
+# Предмет (блокнот)
+Cultist's Note
+<s>Test #197</s>\n565 fireflies still not working\n\n<s>Test #198</s>\n570 fireflies\nBetter result but not enough...\n\n______\n\nWe need a bigger tank\n\nWe need to capture more fireflies
+# Рассказчик о предмете
+Any machine that would steal the fire of other living beings heralds the final ending.
+# Рассказчик
+With the joy of the carnival long buried underneath these horrors, 
+They wanted to be gone from this place as fast as possible.
+They held on to that little something and focused on the road to The Sun.
+What a thing to believe in a dream.
+#
+# Глава 12
+#
+The Salvaged Sanctum
+# Рассказчик
+This is when things started to fall apart.
+When they took away Nena, Gloomy broke down.
+Blazing rage clouded his mind again.
+Nothing would stop him.
+He wasn't done with those children yet. 
+Not in the least bit.
+This is not a man who shows compassion.
+He was just laying the groundwork for his final blow.
+It felt like the world had stopped turning.
+I will never forget Nena’s face,
+When she saw the light in his eyes die.
+This time I took him far away into the mountains.
+Because I wanted Gloomy to truly find peace this time.
+I buried this boy. 
+Twice.
+And though I hated doing exactly what that monster of a Priest wanted, I did it regardless.
+#
+# Глава 13
+#
+Fading Hope
+# Рассказчик
+Nena had a mind of her own.
+Her uncle had confined her to her room again.
+But no locks could keep her from finding Gloomy. 
+She could not ignore the hole in her chest where his light used to be.
+She had promised him she’d protect him.
+There is one thing that she had learned from all her tears:
+She was still here for him. Like he had been there for her.
+No matter how thick the snow, how brutal the wind, she would find her friend again.
+# Живой рассказчик
+Who needs humans in their lives? They're all the same anyway.
+# Рассказчик
+This would not be the end of their dreams.
+She wanted to run. But not without him.
+Like a fierce beacon, once again, the fireflies led the way.
+They wouldn’t rest.
+Not until the boy and the girl with the golden eyes were reunited.
+Not until she had found his grave, 
+And started digging the frozen earth with her bare hands.
+Not until she felt the soft fabric from his sweater,
+And started yanking at it frantically.
+She needed him beside her, not in the cold ground.
+When Gloomy opened his eyes again and climbed out of the grave, she couldn't stop crying with relief.
+# Предмет (табличка)
+Gravekeeper's Note
+Maybe if the humans had tolerated their love, things could have turned out another way\n\n______\n\nGloomy\nHis presence was a ray of sunshine\nThe Gravekeeper
+# Рассказчик о предмете
+If only those fools had left those children alone... we all could have seen a better tomorrow.
+# Рассказчик
+With the snowstorm clearing the path down the mountain again, the children set off.
+Nena caught herself staring at Gloomy sometimes. 
+Convincing herself that this was real, that she had really found him again.
+Even if she couldn't be completely sure he was the same as before.
+But when she felt the light from his eyes drift over her,
+She knew her friend was just as affected as she was.
+She reminded herself that she hadn't been the one trapped in a coffin in the ground.
+#
+# Глава 14
+#
+
+
+
+
+
 
 
