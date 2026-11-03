@@ -13,7 +13,7 @@ Published by=Издано
 #
 Play=Играть
 Continue=Продолжить
-Select Save Slot=Выбрать слот сохранения <space\=6em><color\=purple><b>Перевёл <u>Dontaz</u>  <sprite\=0><sub> v1.0</sub></b></color>
+Select Save Slot=Выбрать слот сохранения <mark\=#000000><space\=6em><color\=purple><b> Перевёл <u>Dontaz</u>  <sprite\=0><sub> v1.0</sub></b></color></mark>
 Chapters=Главы
 Mementos=Памятные вещи
 Select=Выбрать
@@ -210,10 +210,9 @@ Chapter 14:=Глава 14:
 #
 Toggle Lights=Переключить освещение
 Take Screenshot=Сделать снимок экрана
-Main Menu=Главное меню
 Unavailable=Недоступно
 Depth of Field\n=Глубина резкости\n
-Controls=Элементы управления
+Controls=Управление
 Toggle Mode=Переключить режим
 Toggle UI=Переключить интерфейс
 Diorama view is unavailable=Просмотр диорамы недоступен.
@@ -221,7 +220,6 @@ Play / Pause\n=Воспроизведение / Пауза\n
 ZQSD / arrows=ZQSD / стрелки
 Rotate Camera\n=Поворот камеры\n
 Game Speed=Скорость игры
-Passer=Прохожий
 Move Up/Down\n=Переместить вверх/вниз\n
 Captures are saved in the Captures/ folder=Снимки сохраняются в папке «Captures/».
 Mouse\n=Мышь\n
@@ -240,6 +238,7 @@ Restart at last checkpoint=Перезапустить с последней ко
 Return to the Main Menu=Вернуться в главное меню
 Are you sure?=Вы уверены?
 Restart from the beginning=Начать сначала
+Main Menu=Главное меню
 Exit the Game=Выход из игры
 # Пропуск диалога
 Skip=Пропустить
@@ -666,10 +665,67 @@ She reminded herself that she hadn't been the one trapped in a coffin in the gro
 #
 # Глава 14
 #
-
-
-
-
-
-
-
+The Last Glimmer
+# Рассказчик
+A faint light broke through the frozen surface, 
+And though it was only a sliver of what it used to be, it reached for them.
+The Priest again. He had tracked down the fireflies seeking the light of The Sun.
+He caged them all. 
+Reducing them to a power source.
+The fireflies had a strange effect on The Sun, 
+Who sparkled a little more with every little ball of fire returning to him.
+When his eyes locked on her, she knew she was done for.
+But Gloomy let the rage take over.
+For Nena, he would do it a thousand times.
+Blinded by fury, his only focus was the annihilation of the zombie child.
+Gloomy knew he would never leave them be.
+But he would never stop fighting for the human girl.
+# под взошло имеется в виду существо солнце встало
+The Sun finally rose again.
+He stared in wonder at these two mesmerizing creatures that carried his light in their hearts.
+We could have followed in their footsteps,
+But we didn't.
+The world welcomed a magnificent sunset for the last time.
+But me.
+I stayed until there was no one left to bury.
+# Конец
+# Титры
+# Издано
+ARTE France\nUntold Tales
+# Produced by
+AtlasV\nARTE France\nBe Revolution Gaming\n3DAR
+# Developed by
+Fishing Cactus
+# Development Team
+Development Team
+# Externals
+Externals=Внешние
+# Cast
+Cast=Состав
+# Atlas V
+Atlas V
+# ARTE France
+ARTE France
+# Be Revolution Gaming
+Be Revolution Gaming
+# 3dar
+3dar
+# Fishing Cactus (уже есть выше)
+# Untold Tales
+Untold Tales
+# Subcontractors
+Subcontractors
+Sound Design
+Humarka Audio Production
+Consulting
+Aggro Consulting
+Localization
+LocQuest
+# With the support
+With the support of Wallimage (La Wallonie)
+With the support of the Tax Shelter<br>intermediary BNPPFilm Fund
+With the support of the Tax Shelter<br>of the Belgian Federal Government
+With the support of the Région Auvergne Rhône
+# Special Thanks
+Special Thanks
+No zombies were harmed during the development of this game.
