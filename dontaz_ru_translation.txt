@@ -22,8 +22,6 @@ Exit Game=Выйти из игры
 Press any button to start=Нажмите любую клавишу, чтобы начать
 Empty Slot=Пустой слот
 Delete=Удалить
-Annuler=Annuler
-Confirmer=Confirmer
 #
 # Параметры
 #
@@ -222,7 +220,6 @@ Toggle Mode=Переключить режим
 Toggle UI=Переключить интерфейс
 Diorama view is unavailable=Просмотр диорамы недоступен.
 Play / Pause\n=Воспроизведение / Пауза\n
-ZQSD / arrows=ZQSD / стрелки
 Rotate Camera\n=Поворот камеры\n
 Game Speed=Скорость игры
 Move Up/Down\n=Переместить вверх/вниз\n
@@ -263,7 +260,7 @@ Not a soul came to say goodbye.=Проститься с ним не пришла
 If only those human boys would have let him play with them.=Если бы только те людские мальчишки взяли его поиграть.
 He’d promised not to eat them.=Он обещал их не есть.
 He’d told them as much.=Так им и сказал.
-But I guess all they saw was a crazed zombie. =Но, видно, они видели перед собой только обезумевшего зомби. 
+But I guess all they saw was a crazed zombie. =Но, похоже, они видели перед собой только обезумевшего зомби. 
 The day one buries a child is the day one stops believing.=В тот день, когда хоронишь ребёнка, ты перестаёшь верить.
 It’s when I accepted all hope was lost.=Именно тогда я смирился с тем, что надежды больше нет.
 Although I knew better, as I covered him with dirt, I imagined he had found peace.=Хоть я и знал, что это не так, — забрасывая его землёй, я представлял, что он обрёл покой.
@@ -323,7 +320,7 @@ Nena. She was different. I'd known that since the day she arrived.=Нена. О�
 She was so excited.=Она так загорелась.
 She was investigating The Sun's disappearance.=Она расследовала исчезновение Солнца.
 She wanted to find him.=Она хотела его найти.
-And I thought she was right to try, at least.=И я подумал: по крайней мере, попробовать стоит.
+And I thought she was right to try, at least.=И я подумал, что она была права — по крайней мере стоило попробовать
 Fireflies...=Светлячки...
 They'd come to find her.=Они пришли за ней.
 She thought fireflies looked like little flying stars.=Ей казалось, что светлячки — это маленькие летающие звёзды.
@@ -368,7 +365,7 @@ When you see that boy, tell him I'm still here. That child may be our only hope.
 They said his eyes shone a sulfurous yellow.=Говорили, будто глаза у него горят серно-жёлтым.
 But Nena pictured those eyes shining like The Sun himself.=А Нена представляла, что они сияют, как само Солнце.
 According to her uncle, the zombies had declared war on the humans.=По словам дяди, зомби объявили людям войну.
-“What other response was there but to fight back?” he said.=«А что ещё оставалось, кроме как дать сдачи?» — говорил он.
+“What other response was there but to fight back?” he said.=«А что ещё оставалось, кроме как дать отпор?» — говорил он.
 He was their Priest, their commander-in-chief.=Он был их Священником, их главнокомандующим.
 “Humanity's last hope,” he said.=«Последняя надежда человечества», — говорил он.
 I've always found that hard to believe. =Мне в это всегда плохо верилось. 
@@ -387,7 +384,7 @@ Maybe this wasn't such a good idea after all.=Может, всё это было
 #
 # Рассказчик
 The old school. Gloomy knew it well.=Старая школа. Мрачок знал её хорошо.
-The toys lying around held the promise of joy. =Разбросанные игрушки обещали радость.
+The toys lying around held the promise of joy. =Разбросанные игрушки хранили обещание радости. 
 But he’d forgotten how to play with them.=Но он забыл, как с ними играть.
 He had tried throwing them, but that wasn’t nearly as satisfying as hurling bricks and bones.=Он пробовал их швырять, но это было совсем не так приятно, как швырять кирпичи и кости.
 Nena thought of the school as a magical place where children came to play.=Для Нены школа была волшебным местом, куда дети приходили играть.
@@ -521,7 +518,7 @@ It had to be The Sun.=Это наверняка было Солнце.
 #Предмет
 Scientist's Note=Заметка учёного
 Bioluminescent mushrooms are increasingly growing around the lake.\n\nWhy is this happening? (same with trees)\n\nLake water temperature summary:\n\nThe lake is strange\nThe water is too hot\nWe must find out why...\n\n<s>Are those rays of light coming from the deeps?</s>=Вокруг озера всё больше биолюминесцентных грибов.\n\nПочему так? (то же и с деревьями)\n\nСводка температуры воды в озере:\n\nОзеро странное\nВода слишком тёплая\nНадо выяснить почему...\n\n<s>Это из глубины идут лучи света?</s>
-#Рассказчик о предмете
+# Рассказчик о предмете
 Someone else had taken note of nature's evolution and the emergence of bioluminescence.=Кто-то ещё заметил, как меняется природа и как появляется биолюминесценция.
 I wish they'd voiced their concerns back then.=Хотел бы я, чтобы тогда они высказались вслух.
 # Рассказчик
@@ -603,7 +600,7 @@ Any machine that would steal the fire of other living beings heralds the final e
 With the joy of the carnival long buried underneath these horrors, =Под этими ужасами давно погребена радость ярмарки. 
 They wanted to be gone from this place as fast as possible.=Они хотели уйти отсюда как можно быстрее.
 They held on to that little something and focused on the road to The Sun.=Они держались за ту малость и сосредоточились на пути к Солнцу.
-What a thing to believe in a dream.=Вот уж во что верить — так это в мечту.
+What a thing to believe in a dream.=Вот во что стоит верить — так это в мечту. 
 #
 # Глава 12
 #
@@ -652,7 +649,7 @@ She needed him beside her, not in the cold ground.=Он нужен был ей �
 When Gloomy opened his eyes again and climbed out of the grave, she couldn't stop crying with relief.=Когда Мрачок снова открыл глаза и вылез из могилы, она не могла перестать плакать от облегчения.
 # Предмет (табличка)
 Gravekeeper's Note=Записка могильщика
-Maybe if the humans had tolerated their love, things could have turned out another way\n\n______\n\nGloomy\nHis presence was a ray of sunshine\nThe Gravekeeper=Может, если бы люди оставили их любовь в покое, всё могло обернуться иначе\n\n______\n\nМрачок\nОн был как луч солнца\nМогильщик
+Maybe if the humans had tolerated their love, things could have turned out another way\n\n______\n\nGloomy\nHis presence was a ray of sunshine\nThe Gravekeeper=Может, если бы люди смирились с их любовью, всё могло обернуться иначе\n\n______\n\nМрачок\nОн был как луч солнца\nМогильщик
 # Рассказчик о предмете
 If only those fools had left those children alone... we all could have seen a better tomorrow.=Если бы только эти глупцы оставили детей в покое... мы все могли увидеть лучшее завтра.
 # Рассказчик
