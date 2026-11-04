@@ -201,7 +201,9 @@ Rising Threats=Растущие угрозы
 Chapter 9:=Глава 9:
 The Sunken Light=Сокрытый под водой свет
 Chapter 10:=Глава 10:
+Shimmers of Hope=Проблески надежды
 Chapter 11:=Глава 11:
+Chilled to the Bone=Дрожь до костей
 Chapter 12:=Глава 12:
 Chapter 13:=Глава 13:
 Chapter 14:=Глава 14:
@@ -541,66 +543,64 @@ With his floodlights covering the entire lake, there was no way to get to The Su
 #
 # Глава 10
 #
-Shimmers of Hope
 # Рассказчик
-In awe, the children gazed at the wonders of this carnival fair.
-This looked unbelievably more fun than the school.
-The fireflies.
-They weren’t supposed to be trapped in those cages.
-It felt all wrong.
-Nena was just going to have to do something about that.
-That's when Nena understood that she’d never be alone again.
-No matter what, Gloomy would always come back for her.
-And she would never abandon him.
-In appreciation, the fireflies lit up the scene. 
-In their natural light, Gloomy could safely enjoy the fair too.
-Children must have come to play here all the time.
-Gloomy and Nena couldn't resist, and wanted to see everything
-She wanted boundless lights.
+In awe, the children gazed at the wonders of this carnival fair.=Дети не могли отвести глаз от чудес этой ярмарочной площади.
+This looked unbelievably more fun than the school.=Выглядело невероятно веселее, чем школа.
+The fireflies.=Светлячки.
+They weren’t supposed to be trapped in those cages.=Их не должны были держать в этих клетках.
+It felt all wrong.=Всё было неправильно.
+Nena was just going to have to do something about that.=Нена должна была что-то с этим сделать.
+That's when Nena understood that she’d never be alone again.=Вот тогда Нена поняла, что больше никогда не будет одна.
+No matter what, Gloomy would always come back for her.=Что бы ни случилось, Мрачок всегда вернётся за ней.
+And she would never abandon him.=И она никогда его не оставит.
+In appreciation, the fireflies lit up the scene. =В благодарность светлячки осветили всё вокруг. 
+In their natural light, Gloomy could safely enjoy the fair too.=В их естественном свете Мрачок тоже мог спокойно наслаждаться ярмаркой.
+Children must have come to play here all the time.=Дети, должно быть, постоянно приходили сюда играть.
+Gloomy and Nena couldn't resist, and wanted to see everything=Мрачок и Нена не могли устоять и хотели увидеть всё.
+She wanted boundless lights.=Она хотела неоглядного света.
 # Предмет (вывеска)
-Amusement Park Panel
-AMUSEMENT PARK\n\n______\n\nAll leisure areas CLOSED
+Amusement Park Panel=Табличка парка развлечений
+AMUSEMENT PARK\n\n______\n\nAll leisure areas CLOSED=ПАРК РАЗВЛЕЧЕНИЙ\n\n______\n\nВсе зоны отдыха ЗАКРЫТЫ
 # Рассказчик о предмете
-This fair was the first place to close down.
+This fair was the first place to close down.=Этот парк закрыли первым.
 # Живой рассказчик
-This is what joy feels like, children! Relish it!
-It won't last.
+This is what joy feels like, children! Relish it!=Вот это и есть радость, дети! Смакуйте!
+It won't last.=Это ненадолго.
 # Рассказчик
-The fireflies would help her.
-If she asked them nicely.
-"Light up the sky, sweeties."
-That's what she whispered to them.
-These two children were finally truly having a good time. 
-The air rang with their laughter.
-Something I hadn’t heard in a long while.
+The fireflies would help her.=Светлячки ей помогут.
+If she asked them nicely.=Если попросить их ласково.
+"Light up the sky, sweeties."=«Зажгите небо, милые».
+That's what she whispered to them.=Вот что она прошептала им.
+These two children were finally truly having a good time. =Эти двое наконец-то по-настоящему хорошо проводили время. 
+The air rang with their laughter.=Воздух звенел от их смеха.
+Something I hadn’t heard in a long while.=Чего я не слышал уже давно.
 #
 # Глава 11
 #
-Chilled to the Bone
 # Рассказчик
-He had never been scared in his life.
-Or in death.
-And he wasn't about to start now, in front of Nena.
-A sudden unease settled in the pit of her stomach.
-More fireflies trapped in a cage. Nena couldn't understand why.
-Gloomy couldn't help but notice the amount of cages stacked around this place. 
-It was clear someone was catching zombies. 
-I think we all knew who that was.
-The children must have suspected him too.
+He had never been scared in his life.=Он никогда не боялся за всю свою жизнь.
+Or in death.=Или смерть.
+And he wasn't about to start now, in front of Nena.=И начинать сейчас, на глазах у Нены, он не собирался.
+A sudden unease settled in the pit of her stomach.=В животе у неё вдруг поселилась тревога.
+More fireflies trapped in a cage. Nena couldn't understand why.=Ещё светлячки, запертые в клетке. Нена не понимала, зачем это нужно.
+Gloomy couldn't help but notice the amount of cages stacked around this place. =Мрачок не мог не заметить, сколько клеток было навалено вокруг.
+It was clear someone was catching zombies. =Кто-то явно ловил зомби. 
+I think we all knew who that was.=Думаю, мы все знали, кто это.
+The children must have suspected him too.=Дети, должно быть, тоже его подозревали.
 # Живой рассказчик
-Whatever we are given is taken away just as easily. 
-You'd do us all a great service if you remembered that.
+Whatever we are given is taken away just as easily. =Что нам дано — так же легко и отнимается. 
+You'd do us all a great service if you remembered that.=Ты окажешь нам всем большую услугу, если запомнишь это.
 # Рассказчик
 # Предмет (блокнот)
-Cultist's Note
-<s>Test #197</s>\n565 fireflies still not working\n\n<s>Test #198</s>\n570 fireflies\nBetter result but not enough...\n\n______\n\nWe need a bigger tank\n\nWe need to capture more fireflies
+Cultist's Note=Записка культиста
+<s>Test #197</s>\n565 fireflies still not working\n\n<s>Test #198</s>\n570 fireflies\nBetter result but not enough...\n\n______\n\nWe need a bigger tank\n\nWe need to capture more fireflies=<s>Тест №197</s>\n565 светлячков всё ещё не работают\n\n<s>Тест №198</s>\n570 светлячков\nРезультат лучше, но недостаточно...\n\n______\n\nНужна ёмкость побольше\n\nНужно поймать больше светлячков
 # Рассказчик о предмете
-Any machine that would steal the fire of other living beings heralds the final ending.
+Any machine that would steal the fire of other living beings heralds the final ending.=Любая машина, что крадёт огонь у других живых существ, возвещает последний час.
 # Рассказчик
-With the joy of the carnival long buried underneath these horrors, 
-They wanted to be gone from this place as fast as possible.
-They held on to that little something and focused on the road to The Sun.
-What a thing to believe in a dream.
+With the joy of the carnival long buried underneath these horrors, =Под этими ужасами давно погребена радость ярмарки. 
+They wanted to be gone from this place as fast as possible.=Они хотели уйти отсюда как можно быстрее.
+They held on to that little something and focused on the road to The Sun.=Они держались за ту малость и сосредоточились на пути к Солнцу.
+What a thing to believe in a dream.=Вот уж во что верить — так в мечту.
 #
 # Глава 12
 #
