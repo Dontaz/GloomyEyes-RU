@@ -255,7 +255,7 @@ That’s Gloomy. =Это Мрачок.
 Always looking for something to play with.=Вечно в поисках игрушек.
 And chasing fireflies...=И гоняется за светлячками...
 # Живой рассказчик
-This is a horrific world. I'd tell you to make the best of it, but then I'd be lying. =Это чудовищный мир. Я бы сказал тебе — бери от него лучшее, но это было бы враньём.  
+This is a horrific world. I'd tell you to make the best of it, but then I'd be lying. =Это чудовищный мир. Я бы сказал тебе — бери от него лучшее, но это было бы враньём. 
 There's no way to make it better.=Лучше он не станет.
 # Рассказчик
 I buried that boy.=Я похоронил этого мальчика.
@@ -331,7 +331,7 @@ And The Sun was a star, wasn't it?=А Солнце ведь тоже звезд�
 # Предмет
 Nena's Diary=Дневник Нены
 I went outside today with my dog Perrito but I lost him again!\n\nWho?!\n\nUncle's devices \n\nVery scary I didn't like them\n\n______\n\nNena's Detective Diary\n\nFrom: Uncle    <br>To: Nena=Я сегодня выходила на улицу с моим псом Перрито, но опять его потеряла!\n\nКто?!\n\nДядины штуковины \n\nОчень страшные, мне не понравились\n\n______\n\nДневник сыщицы Нены\n\nОт: Дядя    <br>Кому: Нена
-# Расскачик о предмете
+# Рассказчик о предмете
 The boy. He was the first child to come back from the dead...=Мальчик. Он был первым ребёнком, вернувшимся с того света...
 # Рассказчик
 So maybe… these little fire stars could take her to The Sun.=Так, может... эти маленькие огненные звёзды и приведут её к Солнцу.
@@ -520,7 +520,7 @@ The glow of light across the water, beckoning.=Светлое сияние на�
 It had to be The Sun.=Это наверняка было Солнце.
 #Предмет
 Scientist's Note=Заметка учёного
-Bioluminescent mushrooms are increasingly growing around the lake.\n\nWhy is this happening? (same with trees)\n\nLake water temperature summary:\n\nThe lake is strange\nThe water is too hot\nWe must find out why...\n\n<s>Are those rays of light coming from the deeps?</s>Вокруг озера всё больше биолюминесцентных грибов.\n\nПочему так? (то же и с деревьями)\n\nСводка температуры воды в озере:\n\nОзеро странное\nВода слишком тёплая\nНадо выяснить почему...\n\n<s>Это из глубины идут лучи света?</s>
+Bioluminescent mushrooms are increasingly growing around the lake.\n\nWhy is this happening? (same with trees)\n\nLake water temperature summary:\n\nThe lake is strange\nThe water is too hot\nWe must find out why...\n\n<s>Are those rays of light coming from the deeps?</s>=Вокруг озера всё больше биолюминесцентных грибов.\n\nПочему так? (то же и с деревьями)\n\nСводка температуры воды в озере:\n\nОзеро странное\nВода слишком тёплая\nНадо выяснить почему...\n\n<s>Это из глубины идут лучи света?</s>
 #Рассказчик о предмете
 Someone else had taken note of nature's evolution and the emergence of bioluminescence.=Кто-то ещё заметил, как меняется природа и как появляется биолюминесценция.
 I wish they'd voiced their concerns back then.=Хотел бы я, чтобы тогда они высказались вслух.
@@ -652,7 +652,7 @@ She needed him beside her, not in the cold ground.=Он нужен был ей �
 When Gloomy opened his eyes again and climbed out of the grave, she couldn't stop crying with relief.=Когда Мрачок снова открыл глаза и вылез из могилы, она не могла перестать плакать от облегчения.
 # Предмет (табличка)
 Gravekeeper's Note=Записка могильщика
-Maybe if the humans had tolerated their love, things could have turned out another way\n\n______\n\nGloomy\nHis presence was a ray of sunshine\nThe Gravekeeper=Может, если бы люди терпели их любовь, всё могло обернуться иначе\n\n______\n\nМрачок\nОн был как луч солнца\nМогильщик
+Maybe if the humans had tolerated their love, things could have turned out another way\n\n______\n\nGloomy\nHis presence was a ray of sunshine\nThe Gravekeeper=Может, если бы люди оставили их любовь в покое, всё могло обернуться иначе\n\n______\n\nМрачок\nОн был как луч солнца\nМогильщик
 # Рассказчик о предмете
 If only those fools had left those children alone... we all could have seen a better tomorrow.=Если бы только эти глупцы оставили детей в покое... мы все могли увидеть лучшее завтра.
 # Рассказчик
@@ -704,8 +704,8 @@ Externals=Внешние
 Cast=Состав
 # Atlas V
 Atlas V=Atlas V
-# ARTE France=ARTE France
-ARTE France
+# ARTE France
+ARTE France=ARTE France
 # Be Revolution Gaming
 Be Revolution Gaming=Be Revolution Gaming
 # 3dar
