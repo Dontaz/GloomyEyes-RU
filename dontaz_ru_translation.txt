@@ -4,9 +4,9 @@
 Loading...=Загрузка...
 2025 Developed by Fishing Cactus. Produced by ATLAS V, in coproduction with ARTE France, BE REVOLUTION GAMING and 3DAR. Published by Untold Tales and ARTE France. All rights reserved.=2025 Developed by Fishing Cactus. Produced by ATLAS V, in coproduction with ARTE France, BE REVOLUTION GAMING and 3DAR. Published by Untold Tales and ARTE France. All rights reserved.
 With support from=При поддержке
-Developed by=Разработано
-Produced by=Спродюсировано
-Published by=Издано
+Developed by=Разработчик
+Produced by=Производство
+Published by=Издатель
 <color\=red>Gloomy Eyes</color> uses an autosave function.\nPlease do not close the game when this icon appears.=<color\=red>Gloomy Eyes</color> использует функцию автосохранения.\nПожалуйста, не закрывайте игру, когда появляется этот значок.
 #
 # Главное меню
@@ -205,8 +205,11 @@ Shimmers of Hope=Проблески надежды
 Chapter 11:=Глава 11:
 Chilled to the Bone=Дрожь до костей
 Chapter 12:=Глава 12:
+The Salvaged Sanctum=Спасённое святилище
 Chapter 13:=Глава 13:
+Fading Hope=Угасающая надежда
 Chapter 14:=Глава 14:
+The Last Glimmer=Последний проблеск
 #
 # Разное
 #
@@ -600,132 +603,129 @@ Any machine that would steal the fire of other living beings heralds the final e
 With the joy of the carnival long buried underneath these horrors, =Под этими ужасами давно погребена радость ярмарки. 
 They wanted to be gone from this place as fast as possible.=Они хотели уйти отсюда как можно быстрее.
 They held on to that little something and focused on the road to The Sun.=Они держались за ту малость и сосредоточились на пути к Солнцу.
-What a thing to believe in a dream.=Вот уж во что верить — так в мечту.
+What a thing to believe in a dream.=Вот уж во что верить — так это в мечту.
 #
 # Глава 12
 #
-The Salvaged Sanctum
 # Рассказчик
-This is when things started to fall apart.
-When they took away Nena, Gloomy broke down.
-Blazing rage clouded his mind again.
-Nothing would stop him.
-He wasn't done with those children yet. 
-Not in the least bit.
-This is not a man who shows compassion.
-He was just laying the groundwork for his final blow.
-It felt like the world had stopped turning.
-I will never forget Nena’s face,
-When she saw the light in his eyes die.
-This time I took him far away into the mountains.
-Because I wanted Gloomy to truly find peace this time.
-I buried this boy. 
-Twice.
-And though I hated doing exactly what that monster of a Priest wanted, I did it regardless.
+This is when things started to fall apart.=Вот тут всё и начало разваливаться.
+When they took away Nena, Gloomy broke down.=Когда Нену забрали, Мрачок сломался.
+Blazing rage clouded his mind again.=Пылающая ярость снова застлала ему разум.
+Nothing would stop him.=Ничто не могло его остановить.
+He wasn't done with those children yet. =Он ещё не закончил с этими детьми. 
+Not in the least bit.=Ни в малейшей степени.
+This is not a man who shows compassion.=Он не из тех, кто проявляет сострадание.
+He was just laying the groundwork for his final blow.=Он просто готовил почву для последнего удара.
+It felt like the world had stopped turning.=Казалось, что мир перестал вращаться.
+I will never forget Nena’s face,=Я никогда не забуду лицо Нены,
+When she saw the light in his eyes die.=Когда она увидела, как свет в его глазах погас.
+This time I took him far away into the mountains.=В этот раз я унёс его далеко в горы.
+Because I wanted Gloomy to truly find peace this time.=Потому что я хотел, чтобы на этот раз Мрачок нашёл настоящий покой.
+I buried this boy. =Я похоронил этого мальчика. 
+Twice.=Дважды.
+And though I hated doing exactly what that monster of a Priest wanted, I did it regardless.=И хотя мне было ненавистно делать именно то, чего хотел тот изувер Священник, я всё равно это сделал.
 #
 # Глава 13
 #
-Fading Hope
 # Рассказчик
-Nena had a mind of her own.
-Her uncle had confined her to her room again.
-But no locks could keep her from finding Gloomy. 
-She could not ignore the hole in her chest where his light used to be.
-She had promised him she’d protect him.
-There is one thing that she had learned from all her tears:
-She was still here for him. Like he had been there for her.
-No matter how thick the snow, how brutal the wind, she would find her friend again.
+Nena had a mind of her own.=У Нены была своя голова на плечах.
+Her uncle had confined her to her room again.=Дядя снова запер её в комнате.
+But no locks could keep her from finding Gloomy. =Но никакие замки не могли помешать ей найти Мрачка. 
+She could not ignore the hole in her chest where his light used to be.=Она не могла игнорировать дыру в груди — там, где раньше жил его свет.
+She had promised him she’d protect him.=Она обещала ему, что защитит его.
+There is one thing that she had learned from all her tears:=Одному её научили все эти слёзы:
+She was still here for him. Like he had been there for her.=Она по-прежнему здесь ради него. Как когда-то он — ради неё.
+No matter how thick the snow, how brutal the wind, she would find her friend again.=Какой бы глубокий ни был снег, каким бы жестоким ни был ветер, она снова найдёт своего друга.
 # Живой рассказчик
-Who needs humans in their lives? They're all the same anyway.
+Who needs humans in their lives? They're all the same anyway.=Кому вообще нужны эти люди? Они все одинаковые.
 # Рассказчик
-This would not be the end of their dreams.
-She wanted to run. But not without him.
-Like a fierce beacon, once again, the fireflies led the way.
-They wouldn’t rest.
-Not until the boy and the girl with the golden eyes were reunited.
-Not until she had found his grave, 
-And started digging the frozen earth with her bare hands.
-Not until she felt the soft fabric from his sweater,
-And started yanking at it frantically.
-She needed him beside her, not in the cold ground.
-When Gloomy opened his eyes again and climbed out of the grave, she couldn't stop crying with relief.
+This would not be the end of their dreams.=Это не станет концом их мечты.
+She wanted to run. But not without him.=Ей хотелось бежать — но не без него.
+Like a fierce beacon, once again, the fireflies led the way.=Как яркий маяк, светлячки снова указали путь.
+They wouldn’t rest.=Они не остановятся.
+Not until the boy and the girl with the golden eyes were reunited.=Пока мальчик и девочка с золотыми глазами не воссоединятся.
+Not until she had found his grave, =Пока она не нашла его могилу 
+And started digging the frozen earth with her bare hands.=И не начала копать мёрзлую землю голыми руками.
+Not until she felt the soft fabric from his sweater,=Пока не коснулась мягкой ткани его свитера
+And started yanking at it frantically.=И не стала дёргать её отчаянно.
+She needed him beside her, not in the cold ground.=Он нужен был ей рядом, а не в холодной земле.
+When Gloomy opened his eyes again and climbed out of the grave, she couldn't stop crying with relief.=Когда Мрачок снова открыл глаза и вылез из могилы, она не могла перестать плакать от облегчения.
 # Предмет (табличка)
-Gravekeeper's Note
-Maybe if the humans had tolerated their love, things could have turned out another way\n\n______\n\nGloomy\nHis presence was a ray of sunshine\nThe Gravekeeper
+Gravekeeper's Note=Записка могильщика
+Maybe if the humans had tolerated their love, things could have turned out another way\n\n______\n\nGloomy\nHis presence was a ray of sunshine\nThe Gravekeeper=Может, если бы люди терпели их любовь, всё могло обернуться иначе\n\n______\n\nМрачок\nОн был как луч солнца\nМогильщик
 # Рассказчик о предмете
-If only those fools had left those children alone... we all could have seen a better tomorrow.
+If only those fools had left those children alone... we all could have seen a better tomorrow.=Если бы только эти глупцы оставили детей в покое... мы все могли увидеть лучшее завтра.
 # Рассказчик
-With the snowstorm clearing the path down the mountain again, the children set off.
-Nena caught herself staring at Gloomy sometimes. 
-Convincing herself that this was real, that she had really found him again.
-Even if she couldn't be completely sure he was the same as before.
-But when she felt the light from his eyes drift over her,
-She knew her friend was just as affected as she was.
-She reminded herself that she hadn't been the one trapped in a coffin in the ground.
+With the snowstorm clearing the path down the mountain again, the children set off.=Когда метель расчистила путь вниз с горы, дети отправились в путь.
+Nena caught herself staring at Gloomy sometimes. =Иногда Нена спохватывалась, что слишком долго смотрит на Мрачка. 
+Convincing herself that this was real, that she had really found him again.=Убеждала себя, что это по-настоящему, что она и вправду снова его нашла.
+Even if she couldn't be completely sure he was the same as before.=Даже если не могла быть до конца уверена, что он остался прежним.
+But when she felt the light from his eyes drift over her,=Но когда чувствовала, как свет из его глаз скользит по ней,
+She knew her friend was just as affected as she was.=Она знала, что её друг так же потрясён, как и она.
+She reminded herself that she hadn't been the one trapped in a coffin in the ground.=Она напоминала себе, что не она была той, кто застрял в гробу под землёй.
 #
 # Глава 14
 #
-The Last Glimmer
+The Last Glimmer=Последний проблеск
 # Рассказчик
-A faint light broke through the frozen surface, 
-And though it was only a sliver of what it used to be, it reached for them.
-The Priest again. He had tracked down the fireflies seeking the light of The Sun.
-He caged them all. 
-Reducing them to a power source.
-The fireflies had a strange effect on The Sun, 
-Who sparkled a little more with every little ball of fire returning to him.
-When his eyes locked on her, she knew she was done for.
-But Gloomy let the rage take over.
-For Nena, he would do it a thousand times.
-Blinded by fury, his only focus was the annihilation of the zombie child.
-Gloomy knew he would never leave them be.
-But he would never stop fighting for the human girl.
-# под взошло имеется в виду существо солнце встало
-The Sun finally rose again.
-He stared in wonder at these two mesmerizing creatures that carried his light in their hearts.
-We could have followed in their footsteps,
-But we didn't.
-The world welcomed a magnificent sunset for the last time.
-But me.
-I stayed until there was no one left to bury.
+A faint light broke through the frozen surface, =Слабый свет пробился сквозь замёрзшую поверхность, 
+And though it was only a sliver of what it used to be, it reached for them.=И хотя это была лишь крупица того, чем он был раньше, он тянулся к ним.
+The Priest again. He had tracked down the fireflies seeking the light of The Sun.=Священник. Снова. Он выследил светлячков, искавших свет Солнца.
+He caged them all. =Он посадил их всех в клетки. 
+Reducing them to a power source.=Превратив в источник энергии.
+The fireflies had a strange effect on The Sun, =Светлячки странно действовали на Солнце, 
+Who sparkled a little more with every little ball of fire returning to him.=Которое искрилось всё ярче с каждым огоньком, возвращавшимся к нему.
+When his eyes locked on her, she knew she was done for.=Когда его взгляд остановился на ней, она знала, что всё кончено.
+But Gloomy let the rage take over.=Но Мрачок позволил ярости взять верх.
+For Nena, he would do it a thousand times.=Ради Нены он сделал бы это тысячу раз.
+Blinded by fury, his only focus was the annihilation of the zombie child.=Ослеплённый яростью, он думал только об уничтожении этого зомбёнка.
+Gloomy knew he would never leave them be.=Мрачок знал, что тот никогда не оставит их в покое.
+But he would never stop fighting for the human girl.=Но он никогда не перестанет сражаться за эту живую девочку.
+The Sun finally rose again.=Солнце наконец взошло вновь.
+He stared in wonder at these two mesmerizing creatures that carried his light in their hearts.=Оно смотрело с изумлением на этих двух завораживающих созданий, что носили его свет в сердцах.
+We could have followed in their footsteps,=Мы могли бы пойти по их стопам,
+But we didn't.=Но мы не пошли.
+The world welcomed a magnificent sunset for the last time.=Мир последний раз встретил великолепный закат.
+But me.=А я.
+I stayed until there was no one left to bury.=Я остался, пока не осталось никого, кого можно похоронить.
 # Конец
 # Титры
 # Издано
-ARTE France\nUntold Tales
+ARTE France\nUntold Tales=ARTE France\nUntold Tales
 # Produced by
-AtlasV\nARTE France\nBe Revolution Gaming\n3DAR
+AtlasV\nARTE France\nBe Revolution Gaming\n3DAR=AtlasV\nARTE France\nBe Revolution Gaming\n3DAR
 # Developed by
-Fishing Cactus
+Fishing Cactus=Fishing Cactus
 # Development Team
-Development Team
+Development Team=Команда разработки
 # Externals
 Externals=Внешние
 # Cast
 Cast=Состав
 # Atlas V
-Atlas V
-# ARTE France
+Atlas V=Atlas V
+# ARTE France=ARTE France
 ARTE France
 # Be Revolution Gaming
-Be Revolution Gaming
+Be Revolution Gaming=Be Revolution Gaming
 # 3dar
-3dar
+3dar=3dar
 # Fishing Cactus (уже есть выше)
 # Untold Tales
-Untold Tales
+Untold Tales=Untold Tales
 # Subcontractors
-Subcontractors
-Sound Design
-Humarka Audio Production
-Consulting
-Aggro Consulting
-Localization
-LocQuest
+Subcontractors=Субподрядчики
+Sound Design=Звуковой дизайн
+Humarka Audio Production=Humarka Audio Production
+Consulting=Консалтинг
+Aggro Consulting=Aggro Consulting
+Localization=Локализация
+LocQuest=LocQuest
 # With the support
-With the support of Wallimage (La Wallonie)
-With the support of the Tax Shelter<br>intermediary BNPPFilm Fund
-With the support of the Tax Shelter<br>of the Belgian Federal Government
-With the support of the Région Auvergne Rhône
+With the support of Wallimage (La Wallonie)=При поддержке Wallimage (La Wallonie)
+With the support of the Tax Shelter<br>intermediary BNPPFilm Fund=При поддержке Tax Shelter<br>при посредничестве BNPPFilm Fund
+With the support of the Tax Shelter<br>of the Belgian Federal Government=При поддержке Tax Shelter<br>федерального правительства Бельгии
+With the support of the Région Auvergne Rhône=При поддержке региона Овернь-Рона-Альпы
 # Special Thanks
-Special Thanks
-No zombies were harmed during the development of this game.
+Special Thanks=Особая благодарность
+No zombies were harmed during the development of this game.=Ни один зомби не пострадал во время разработки этой игры.
