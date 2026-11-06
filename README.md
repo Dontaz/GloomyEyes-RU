@@ -52,10 +52,10 @@
 
 ## Пример перевода
 
-[Главное меню](img/example_1.webp)
+![Главное меню](img/example_1.webp)
 
-[Главное настроек](img/example_2.webp)
+![Главное настроек](img/example_2.webp)
 
-[Описание предметов](img/example_3.webp)
+![Описание предметов](img/example_3.webp)
 
-[Субтитры](img/example_4.webp)
+![Субтитры](img/example_4.webp)
