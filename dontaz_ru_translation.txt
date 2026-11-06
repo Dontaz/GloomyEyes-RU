@@ -442,11 +442,11 @@ This tree is quite something, isn't it?=Ну и дерево, да?
 This is the life that can grow without the idiocy of humans.=Вот она — жизнь, которая может расти без человеческой глупости.
 # Рассказчик
 She’d never seen a tree this tall.=Она никогда не видела такого высокого дерева.
-Nor such luminescence in the plants and flowers climbing up its trunk.=И такого сияния в растениях и цветах, что карабкались по его стволу.
+Nor such luminescence in the plants and flowers climbing up its trunk.=И такого свечения растений и цветов, которые карабкались по его стволу.
 The life that tree harbored was unheard of.=Никто и вообразить не мог, сколько жизни гнездится в одном дереве.
 This was Gloomy’s home.=Это был дом Мрачка.
 How often had he climbed these vines?=Сколько раз он взбирался по этим лианам?
-She found herself daydreaming about climbing trees with him.=Незаметно для себя она размечталась, будто они вдвоём лазают по деревьям.
+She found herself daydreaming about climbing trees with him.=Она поймала себя на том, что мечтает лазать с ним по деревьям.
 # Предмет (голова из грязи, костей, веток. На ней маска из дерева. Из глаз идёт свет)
 Handcrafted Sun=Сделанное вручную Солнце
 # Рассказчик о предмете
@@ -455,7 +455,7 @@ That looked a lot like The Sun, and Nena marveled. Did Gloomy make this?=Это 
 There she was, the human girl.=Вот она — девочка из живых.
 Because she liked his drawing of The Sun, he wanted to share its secret with her.=Раз ей понравился его рисунок Солнца, он захотел открыть ей его тайну.
 He pointed at the yellow light piercing through the trees from beyond the forest.=Он указал на жёлтый свет, что пробивался сквозь деревья из-за леса.
-They were going to go find The Sun. Together.=Они пойдут искать Солнце. Вместе.
+They were going to go find The Sun. Together.=Они собирались пойти искать Солнце. Вместе.
 #
 # Глава 7
 #
@@ -472,7 +472,7 @@ What did the Cultists want with an amusement park? =Зачем культист�
 # Рассказчик
 Nena had thought that this lush forest might bring some relief to the humans’ daily agony,=Нена думала, что этот пышный лес хоть немного облегчит людям их ежедневные муки,
 And she had considered running home to tell them about it. =И подумывала сбегать домой, чтобы рассказать о нём. 
-But she soon realized that they already knew about the woods.=Но вскоре поняла, что о лесе они и так знают.
+But she soon realized that they already knew about the woods.=Но вскоре поняла, что о лесе они уже знали.
 # Живой расскачик
 These humans are ruining the only place left humming with life in this otherwise dead world.=Эти люди губят единственное место в этом мёртвом мире, где ещё бурлит жизнь.
 # Рассказчик
@@ -537,10 +537,10 @@ I wish they'd voiced their concerns back then.=Хотел бы я, чтобы т
 They were so close.=Они были совсем близко.
 All they needed to do was get across this lake.=Всё, что оставалось, — перебраться через озеро.
 # Живой расскачик
-There's a softness to the breeze sweeping across these sands, =Ветер, что бежит по этому песку, — нежный, 
+There's a softness to the breeze sweeping across these sands, =В ветре, что проносится по этим пескам, есть мягкость, 
 Which I appreciate very much in these times of disaster.=И в нынешние горькие времена это мне очень по душе.
 # Рассказчик
-The children roamed the beach, building their boat, enjoying the sand underneath their feet.=Дети бродили по берегу, строили свою лодку, радуясь песку под ногами.
+The children roamed the beach, building their boat, enjoying the sand underneath their feet.=Дети бродили по берегу, строили свою лодку и наслаждались песком под ногами.
 This was their moment.=Это был их миг.
 This was their beach.=Это был их берег.
 They were each other’s secret.=Они были тайной друг друга.
@@ -556,25 +556,25 @@ With his floodlights covering the entire lake, there was no way to get to The Su
 # Глава 10
 #
 # Рассказчик
-In awe, the children gazed at the wonders of this carnival fair.=Дети не могли отвести глаз от чудес этой ярмарочной площади.
+In awe, the children gazed at the wonders of this carnival fair.=Дети заворожённо смотрели на чудеса этого парка развлечений.
 This looked unbelievably more fun than the school.=Выглядело невероятно веселее, чем школа.
 The fireflies.=Светлячки.
 They weren’t supposed to be trapped in those cages.=Их не должны были держать в этих клетках.
-It felt all wrong.=Всё было неправильно.
+It felt all wrong.=Что-то во всём этом было неправильно.
 Nena was just going to have to do something about that.=Нена должна была что-то с этим сделать.
 That's when Nena understood that she’d never be alone again.=Вот тогда Нена поняла, что больше никогда не будет одна.
 No matter what, Gloomy would always come back for her.=Что бы ни случилось, Мрачок всегда вернётся за ней.
 And she would never abandon him.=И она никогда его не оставит.
 In appreciation, the fireflies lit up the scene. =В благодарность светлячки осветили всё вокруг. 
-In their natural light, Gloomy could safely enjoy the fair too.=В их естественном свете Мрачок тоже мог спокойно наслаждаться ярмаркой.
-Children must have come to play here all the time.=Дети, должно быть, постоянно приходили сюда играть.
+In their natural light, Gloomy could safely enjoy the fair too.=В их естественном свете Мрачок тоже мог спокойно наслаждаться парком.
+Children must have come to play here all the time.=Наверняка дети постоянно приходили сюда играть.
 Gloomy and Nena couldn't resist, and wanted to see everything=Мрачок и Нена не могли устоять и хотели увидеть всё.
 She wanted boundless lights.=Она хотела неоглядного света.
 # Предмет (вывеска)
-Amusement Park Panel=Табличка парка развлечений
+Amusement Park Panel=Вывеска парка развлечений
 AMUSEMENT PARK\n\n______\n\nAll leisure areas CLOSED=ПАРК РАЗВЛЕЧЕНИЙ\n\n______\n\nВсе зоны отдыха ЗАКРЫТЫ
 # Рассказчик о предмете
-This fair was the first place to close down.=Этот парк закрыли первым.
+This fair was the first place to close down.=Этот парк развлечений закрылся первым.
 # Живой рассказчик
 This is what joy feels like, children! Relish it!=Вот это и есть радость, дети! Смакуйте!
 It won't last.=Это ненадолго.
@@ -609,9 +609,9 @@ Cultist's Note=Записка культиста
 # Рассказчик о предмете
 Any machine that would steal the fire of other living beings heralds the final ending.=Любая машина, что крадёт огонь у других живых существ, возвещает последний час.
 # Рассказчик
-With the joy of the carnival long buried underneath these horrors, =Под этими ужасами давно погребена радость ярмарки. 
+With the joy of the carnival long buried underneath these horrors, =Под этими ужасами давно погребена радость парка. 
 They wanted to be gone from this place as fast as possible.=Они хотели уйти отсюда как можно быстрее.
-They held on to that little something and focused on the road to The Sun.=Они держались за ту малость и сосредоточились на пути к Солнцу.
+They held on to that little something and focused on the road to The Sun.=Они цеплялись за то немногое, что оставалось — и думали только о дороге к Солнцу.
 What a thing to believe in a dream.=Вот во что стоит верить — так это в мечту. 
 What more harm did they plan to inflict on others?=Какой ещё вред они собирались причинить другим?
 #
@@ -623,7 +623,7 @@ When they took away Nena, Gloomy broke down.=Когда Нену забрали,
 Blazing rage clouded his mind again.=Пылающая ярость снова застлала ему разум.
 Nothing would stop him.=Ничто не могло его остановить.
 He wasn't done with those children yet. =Он ещё не закончил с этими детьми. 
-Not in the least bit.=Ни в малейшей степени.
+Not in the least bit.=Отнюдь.
 This is not a man who shows compassion.=Он не из тех, кто проявляет сострадание.
 He was just laying the groundwork for his final blow.=Он просто готовил почву для последнего удара.
 It felt like the world had stopped turning.=Казалось, что мир перестал вращаться.
@@ -682,7 +682,7 @@ A faint light broke through the frozen surface, =Слабый свет проб�
 And though it was only a sliver of what it used to be, it reached for them.=И хотя это была лишь крупица того, чем он был раньше, он тянулся к ним.
 The Priest again. He had tracked down the fireflies seeking the light of The Sun.=Священник. Снова. Он выследил светлячков, искавших свет Солнца.
 He caged them all. =Он посадил их всех в клетки. 
-Reducing them to a power source.=Превратив в источник энергии.
+Reducing them to a power source.=И превратил в источник энергии.
 The fireflies had a strange effect on The Sun, =Светлячки странно действовали на Солнце, 
 Who sparkled a little more with every little ball of fire returning to him.=Которое искрилось всё ярче с каждым огоньком, возвращавшимся к нему.
 When his eyes locked on her, she knew she was done for.=Когда его взгляд остановился на ней, она знала, что всё кончено.
