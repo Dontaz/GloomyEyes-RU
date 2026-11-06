@@ -17,6 +17,12 @@
 ![Total Downloads](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20-%20>0%20-%20%D0%A1%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9?style=flat&label=%D0%9E%D0%B1%D1%89%D0%B5%D0%B5%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=682375)
 [![Latest Version](https://img.shields.io/github/v/tag/Dontaz/GloomyEyes-RU?sort=date&display_name=tag&logo=wikibooks&label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&labelColor=gray&color=red)](https://github.com/Dontaz/GloomyEyes-RU/releases/latest)
 
+<div align="center">
+	<a href="https://github.com/Dontaz/GloomyEyes-RU/releases/latest">
+		<img src="https://img.shields.io/badge/%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8%20%D0%BD%D0%B0%20-%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%83%20%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20-%20?style=flat&logo=github&logoColor=black&labelColor=white&color=darkgreen" width="450px">
+	</a>
+</div>
+
 </div>
 
 ## Содержание
