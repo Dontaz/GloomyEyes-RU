@@ -662,7 +662,7 @@ She needed him beside her, not in the cold ground.=Он нужен был ей �
 When Gloomy opened his eyes again and climbed out of the grave, she couldn't stop crying with relief.=Когда Мрачок снова открыл глаза и вылез из могилы, она не могла перестать плакать от облегчения.
 # Предмет (табличка)
 Gravekeeper's Note=Записка могильщика
-Maybe if the humans had tolerated their love, things could have turned out another way\n\n______\n\nGloomy\nHis presence was a ray of sunshine\nThe Gravekeeper=Может, если бы люди смирились с их любовью, всё могло обернуться иначе\n\n______\n\nМрачок\nОн был как луч солнца\nМогильщик
+Maybe if the humans had tolerated their love, things could have turned out another way\n\n______\n\nGloomy\nHis presence was a ray of sunshine\nThe Gravekeeper=Может, если бы люди смирились с их любовью, всё могло обернуться иначе\n\n______\n\nМрачок\nОн был как луч солнца\n<space\=4em>Могильщик
 # Рассказчик о предмете
 If only those fools had left those children alone... we all could have seen a better tomorrow.=Если бы только эти глупцы оставили детей в покое... мы все могли увидеть лучшее завтра.
 # Рассказчик
