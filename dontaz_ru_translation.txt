@@ -86,13 +86,26 @@ Down=Вниз
 Up=Вверх
 Revert=Отменить
 Swap=Поменять
-This key is already used by "Swap Character", do you want to swap the binding?=Эта клавиша уже используется функцией «Сменить персонажа», вы хотите поменять привязку?
 Swap Character=Сменить персонажа
 Move Camera=Переместить камеру
 Move Character=Переместить персонажа
 Diorama View=Вид на диораму
 Special=Способность
 Action=Действие
+Drop=Бросить
+This key is already used by "Special", do you want to swap the binding?=Эта клавиша уже используется функцией «Способность», вы хотите поменять привязку?
+This key is already used by "Action", do you want to swap the binding?=Эта клавиша уже используется функцией «Действие», вы хотите поменять привязку?
+This key is already used by "Drop", do you want to swap the binding?=Эта клавиша уже используется функцией «Бросить», вы хотите поменять привязку?
+This key is already used by "Diorama View", do you want to swap the binding?=Эта клавиша уже используется функцией «Вид на диораму», вы хотите поменять привязку?
+This key is already used by "Move Camera, Down", do you want to swap the binding?=Эта клавиша уже используется функцией «Переместить камеру вниз», вы хотите поменять привязку?
+This key is already used by "Move Camera, Up", do you want to swap the binding?=Эта клавиша уже используется функцией «Переместить камеру вверх», вы хотите поменять привязку?
+This key is already used by "Move Camera, Right", do you want to swap the binding?=Эта клавиша уже используется функцией «Переместить камеру вправо», вы хотите поменять привязку?
+This key is already used by "Move Camera, Left", do you want to swap the binding?=Эта клавиша уже используется функцией «Переместить камеру влево», вы хотите поменять привязку?
+This key is already used by "Move Character, Up", do you want to swap the binding?=Эта клавиша уже используется функцией «Переместить персонажа вверх», вы хотите поменять привязку?
+This key is already used by "Move Character, Right", do you want to swap the binding?=Эта клавиша уже используется функцией «Переместить персонажа вправо», вы хотите поменять привязку?
+This key is already used by "Move Character, Left", do you want to swap the binding?=Эта клавиша уже используется функцией «Переместить персонажа влево», вы хотите поменять привязку?
+This key is already used by "Move Character, Down", do you want to swap the binding?=Эта клавиша уже используется функцией «Переместить персонажа вниз», вы хотите поменять привязку?
+This key is already used by "Swap Character", do you want to swap the binding?=Эта клавиша уже используется функцией «Сменить персонажа», вы хотите поменять привязку?
 #
 # Буквы для клавиш (латиница)
 #
@@ -171,7 +184,6 @@ Reverse=Инвертированное
 Dyslexic Font=Шрифт для дислексиков (не работает для русского текста)
 Text Speed=Скорость текста
 Header=Заголовок
-Drop=Бросить
 Pause=Пауза
 Fast=Быстрая
 Slow=Медленная
@@ -414,11 +426,11 @@ And then it all fell to pieces.=А потом всё разлетелось на
 How I wished someone would have disposed of that Priest.=Как же мне хотелось, чтобы кто-нибудь убрал этого Священника.
 I would have buried him gladly.=Я бы с радостью его схоронил.
 Because this was all wrong.=Потому что всё это было неправильно.
-She had lost him.=Она его потеряла.
 #
 # Глава 6
 #
 # Рассказчик
+She had lost him.=Она его потеряла.
 It was too dark in these dense woods.=В этих густых лесах было слишком темно.
 That boy couldn’t be more different from her.=Тот мальчик был совсем не похож на неё.
 And that’s exactly why she needed to get to him.=И именно поэтому ей нужно было до него добраться.
@@ -475,14 +487,14 @@ Entirely focused on danger coming from outside the camp, the Cultists forgot to 
 If they had, they might have seen her.=Загляни они внутрь — и увидели бы её.
 The only way to the light was straight through hell.=Единственный путь к свету лежал прямо через ад.
 They didn’t hesitate.=Они не колебались.
-That’s why they were here.=За этим они и пришли.
 #
 # Глава 8
 #
 # Рассказчик
 The old mines.=Старые шахты.
-The sight of it chilled Nena’s blood.=От одного их вида у Нены стыла кровь.
+That’s why they were here.=За этим они и пришли.
 To transport their stockpile of deadly weapons.=По ним перевозили запасы смертоносного оружия.
+The sight of it chilled Nena’s blood.=От одного их вида у Нены стыла кровь.
 And mine, whenever I think of it.=А у меня стынет — всякий раз, как вспомню.
 They had to be smart about this.=Тут им нужно было действовать с умом.
 There was only one way forward.=Путь был только один.
@@ -500,7 +512,7 @@ The Priest needed fireflies. He was hatching new and evil plans, that much was c
 You two may be the only thing that makes sense in this world.=Вы двое — пожалуй, единственное, в чём ещё есть смысл в этом мире.
 # Рассказчик
 It had been his choice=Это был его выбор —
-To go find The Sun with Nena, a human.=Отправиться искать Солнце с Неной, живой девочкой.
+To go find The Sun with Nena, a human.=Отправиться искать Солнце с Неной, человеком.
 Maybe he should have stuck with his own kind after all.=Может, стоило всё-таки остаться среди своих.
 All that kid wanted was to stay with her.=Всё, чего хотел этот мальчик, — остаться с ней.
 Even if he didn't know how to be a boy.=Даже если он не знал, как быть мальчиком.
@@ -515,9 +527,9 @@ Maybe I should have intervened, but I just didn’t know how.=Может, мне
 I could see it too.=Я тоже это видел.
 The glow of light across the water, beckoning.=Светлое сияние над водой, манящее.
 It had to be The Sun.=Это наверняка было Солнце.
-#Предмет
+# Предмет
 Scientist's Note=Заметка учёного
-Bioluminescent mushrooms are increasingly growing around the lake.\n\nWhy is this happening? (same with trees)\n\nLake water temperature summary:\n\nThe lake is strange\nThe water is too hot\nWe must find out why...\n\n<s>Are those rays of light coming from the deeps?</s>=Вокруг озера всё больше биолюминесцентных грибов.\n\nПочему так? (то же и с деревьями)\n\nСводка температуры воды в озере:\n\nОзеро странное\nВода слишком тёплая\nНадо выяснить почему...\n\n<s>Это из глубины идут лучи света?</s>
+Bioluminescent mushrooms are increasingly growing around the lake.\n\nWhy is this happening? (same with trees)\n\nLake water temperature summary:\n\nThe lake is strange\nThe water is too hot\nWe must find out why...\n\n<s>Are those rays of light coming from the deeps?</s>=Вокруг озера всё больше биолюминесцентных грибов.\n\nПочему так? (то же и с деревьями)\n\nСводка температуры воды в озере:\n\nОзеро странное\nВода слишком тёплая\nНадо выяснить почему...\n\n<s>Это из глубины идут лучи света?</s> (зачёркнуто)
 # Рассказчик о предмете
 Someone else had taken note of nature's evolution and the emergence of bioluminescence.=Кто-то ещё заметил, как меняется природа и как появляется биолюминесценция.
 I wish they'd voiced their concerns back then.=Хотел бы я, чтобы тогда они высказались вслух.
@@ -593,7 +605,7 @@ You'd do us all a great service if you remembered that.=Ты окажешь на
 # Рассказчик
 # Предмет (блокнот)
 Cultist's Note=Записка культиста
-<s>Test #197</s>\n565 fireflies still not working\n\n<s>Test #198</s>\n570 fireflies\nBetter result but not enough...\n\n______\n\nWe need a bigger tank\n\nWe need to capture more fireflies=<s>Тест №197</s>\n565 светлячков всё ещё не работают\n\n<s>Тест №198</s>\n570 светлячков\nРезультат лучше, но недостаточно...\n\n______\n\nНужна ёмкость побольше\n\nНужно поймать больше светлячков
+<s>Test #197</s>\n565 fireflies still not working\n\n<s>Test #198</s>\n570 fireflies\nBetter result but not enough...\n\n______\n\nWe need a bigger tank\n\nWe need to capture more fireflies=<s>Тест №197</s>\n565 светлячков\nВсё ещё не работает\n\n<s>Тест №198</s>\n570 светлячков\nРезультат лучше, но недостаточно...\n\n______\n\nНужна ёмкость побольше\n\nНужно поймать больше светлячков
 # Рассказчик о предмете
 Any machine that would steal the fire of other living beings heralds the final ending.=Любая машина, что крадёт огонь у других живых существ, возвещает последний час.
 # Рассказчик
@@ -601,6 +613,7 @@ With the joy of the carnival long buried underneath these horrors, =Под эт�
 They wanted to be gone from this place as fast as possible.=Они хотели уйти отсюда как можно быстрее.
 They held on to that little something and focused on the road to The Sun.=Они держались за ту малость и сосредоточились на пути к Солнцу.
 What a thing to believe in a dream.=Вот во что стоит верить — так это в мечту. 
+What more harm did they plan to inflict on others?=Какой ещё вред они собирались причинить другим?
 #
 # Глава 12
 #
