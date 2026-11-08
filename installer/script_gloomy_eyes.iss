@@ -4,7 +4,7 @@
 ; ============================================================================
 
 #define MyAppName "Русификатор для Gloomy Eyes"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.0.1"
 #define MyAppPublisher "Dontaz"
 #define MyAppURL "https://github.com/Dontaz/GloomyEyes-RU/releases/latest"
 #define MyAppBoosty "https://boosty.to/dontaz"
@@ -24,6 +24,7 @@ DefaultDirName={code:GetGamePath}
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 PrivilegesRequired=lowest
+PrivilegesRequiredOverridesAllowed=dialog
 OutputDir=.
 OutputBaseFilename=Gloomy.Eyes.RU
 SolidCompression=yes
@@ -39,10 +40,11 @@ WizardImageFile=sidebar.png
 WizardSmallImageFile=small.png
 WizardImageFileDynamicDark=sidebar.png
 WizardSmallImageFileDynamicDark=small.png
+SetupIconFile=Gloomy.Eyes.RU.ico
 DisableWelcomePage=no
 VersionInfoCompany=Dontaz
 VersionInfoDescription={#MyAppURL}
-VersionInfoVersion=1.0.0.0
+VersionInfoVersion=1.0.1.0
 VersionInfoProductName={#MyAppName}
 VersionInfoCopyright=MIT License
 SignTool=mysigntool
@@ -52,6 +54,9 @@ Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
 
 [Files]
 Source: "Installer\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+
+[UninstallDelete]
+Type: filesandordirs; Name: "{app}\BepInEx"
 
 [CustomMessages]
 WelcomeTitle=Вас приветствует мастер установки русификатора для Gloomy Eyes
