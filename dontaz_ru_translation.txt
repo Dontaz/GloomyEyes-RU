@@ -13,7 +13,7 @@ Published by=Издатель
 #
 Play=Играть
 Continue=Продолжить
-Select Save Slot=Выбрать слот сохранения <mark\=#000000><space\=6em><color\=purple><b> Перевёл <u>Dontaz</u>  <sprite\=0><sub> v1.0.1</sub></b></color></mark>
+Select Save Slot=Выбрать слот сохранения <mark\=#000000><space\=6em><color\=purple><b> Перевёл <u>Dontaz</u>  <sprite\=0><sub> v1.1</sub></b></color></mark>
 Chapters=Главы
 Mementos=Памятные вещи
 Select=Выбрать
@@ -47,7 +47,7 @@ Show Subtitles=Показать субтитры
 Vibrations=Вибрация
 English=Русский (Dontaz)
 Français=Французский
-한국어=한국어=Корейский
+한국어=Корейский
 Español=Испанский
 Portuguese=Португальский
 Deutsch=Немецкий
