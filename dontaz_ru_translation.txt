@@ -13,7 +13,7 @@ Published by=Издатель
 #
 Play=Играть
 Continue=Продолжить
-Select Save Slot=Выбрать слот сохранения <mark\=#000000><space\=6em><color\=purple><b> Перевёл <u>Dontaz</u>  <sprite\=0><sub> v1.0</sub></b></color></mark>
+Select Save Slot=Выбрать слот сохранения <mark\=#000000><space\=6em><color\=purple><b> Перевёл <u>Dontaz</u>  <sprite\=0><sub> v1.0.1</sub></b></color></mark>
 Chapters=Главы
 Mementos=Памятные вещи
 Select=Выбрать
